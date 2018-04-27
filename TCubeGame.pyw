@@ -232,6 +232,8 @@ class TCubeGame(QMainWindow):
             for moves in blockMovesList:
                 if moves[3] is 0:
                     winOrBlockList.append(moves)
+            if self.difficulty == "Easy":
+                winOrBlockList=[]
             if len(winOrBlockList) is 0:
                 logging.info("CPU has chosen Random Move")
                 while(moveMade is 0):
@@ -291,6 +293,18 @@ class preferencesDialog(QDialog):
         else:
             self.cpuMoveFirst = False
             self.appSettings.setValue('cpuMoveFirst', self.cpuMoveFirst)
+
+        if self.appSettings.contains('difficulty'):
+            self.difficulty = self.appSettings.value('difficulty', type=str)
+            if self.difficulty == "Easy":
+                self.easyButton.setChecked(True)
+                self.hardButton.setChecked(False)
+        else:
+            self.difficulty = "Hard"
+            self.easyButton.setChecked(False)
+            self.hardButton.setChecked(True)
+
+        self.easyButton.toggled.connect(self.difficultyHandler)
         self.playerMarkBox.setChecked(self.boxState)
         self.moveFirst.setChecked(self.cpuMoveFirst)
         self.playerMarkBox.stateChanged.connect(self.playerBoxChecked)
@@ -314,6 +328,13 @@ class preferencesDialog(QDialog):
             self.cpuMoveFirst=False
 
     @pyqtSlot()
+    def difficultyHandler(self):
+        if self.hardButton.isChecked() is False:
+            self.difficulty="Easy"
+        else:
+            self.difficulty="Hard"
+
+    @pyqtSlot()
     def cancelClickedHandler(self):
         self.close()
 
@@ -321,6 +342,7 @@ class preferencesDialog(QDialog):
     def okayClickedHandler(self):
         self.appSettings.setValue('playerMark', self.player)
         self.appSettings.setValue('cpuMoveFirst', self.cpuMoveFirst)
+        self.appSettings.setValue('difficulty', self.difficulty)
         self.close()
         TCubeApp.restartGame()
 
