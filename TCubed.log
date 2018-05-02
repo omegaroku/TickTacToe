@@ -4346,3 +4346,1549 @@
 2018-04-27 15:51:06,049 root     INFO     Player Has Selected A Button.
 2018-04-27 15:51:09,055 root     INFO     Restarted Game
 2018-04-27 15:51:10,424 root     DEBUG    Saved Game
+2018-04-30 10:07:25,140 PyQt5.uic.uiparser DEBUG    UI version is 4.0
+2018-04-30 10:07:25,186 PyQt5.uic.uiparser DEBUG    uiname is MainWindow
+2018-04-30 10:07:25,186 PyQt5.uic.uiparser DEBUG    toplevel widget is TCubeGame
+2018-04-30 10:07:25,187 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 10:07:25,187 PyQt5.uic.properties DEBUG    setting property windowTitle
+2018-04-30 10:07:25,187 PyQt5.uic.uiparser DEBUG    push TCubeGame MainWindow
+2018-04-30 10:07:25,188 PyQt5.uic.uiparser DEBUG    push QWidget centralwidget
+2018-04-30 10:07:25,188 PyQt5.uic.properties DEBUG    setting property pyuicMargins
+2018-04-30 10:07:25,189 PyQt5.uic.uiparser DEBUG    push QGridLayout gridLayout_2
+2018-04-30 10:07:25,189 PyQt5.uic.uiparser DEBUG    push QVBoxLayout verticalLayout
+2018-04-30 10:07:25,189 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout_6
+2018-04-30 10:07:25,189 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout_4
+2018-04-30 10:07:25,189 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 10:07:25,189 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 10:07:25,189 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 10:07:25,189 PyQt5.uic.uiparser DEBUG    push QLabel firstPlayerLabel
+2018-04-30 10:07:25,194 PyQt5.uic.uiparser DEBUG    pop widget QLabel firstPlayerLabel
+2018-04-30 10:07:25,194 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000018DAFD10AF8>
+2018-04-30 10:07:25,194 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 10:07:25,194 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 10:07:25,195 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 10:07:25,195 PyQt5.uic.uiparser DEBUG    push QLabel firstScoreLabel
+2018-04-30 10:07:25,195 PyQt5.uic.uiparser DEBUG    pop widget QLabel firstScoreLabel
+2018-04-30 10:07:25,195 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000018DAFD10AF8>
+2018-04-30 10:07:25,196 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout_4
+2018-04-30 10:07:25,197 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout_5
+2018-04-30 10:07:25,197 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 10:07:25,197 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 10:07:25,197 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 10:07:25,197 PyQt5.uic.uiparser DEBUG    push QLabel drawLabel
+2018-04-30 10:07:25,198 PyQt5.uic.uiparser DEBUG    pop widget QLabel drawLabel
+2018-04-30 10:07:25,198 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000018DAFD10AF8>
+2018-04-30 10:07:25,198 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 10:07:25,199 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 10:07:25,199 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 10:07:25,199 PyQt5.uic.uiparser DEBUG    push QLabel drawScoreLabel
+2018-04-30 10:07:25,199 PyQt5.uic.uiparser DEBUG    pop widget QLabel drawScoreLabel
+2018-04-30 10:07:25,199 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000018DAFD10AF8>
+2018-04-30 10:07:25,199 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout_5
+2018-04-30 10:07:25,199 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout_3
+2018-04-30 10:07:25,199 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 10:07:25,199 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 10:07:25,199 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 10:07:25,199 PyQt5.uic.uiparser DEBUG    push QLabel secondPlayerLabel
+2018-04-30 10:07:25,199 PyQt5.uic.uiparser DEBUG    pop widget QLabel secondPlayerLabel
+2018-04-30 10:07:25,199 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000018DAFD10AF8>
+2018-04-30 10:07:25,199 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 10:07:25,199 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 10:07:25,199 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 10:07:25,199 PyQt5.uic.uiparser DEBUG    push QLabel secondScoreLabel
+2018-04-30 10:07:25,199 PyQt5.uic.uiparser DEBUG    pop widget QLabel secondScoreLabel
+2018-04-30 10:07:25,199 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000018DAFD10AF8>
+2018-04-30 10:07:25,199 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout_3
+2018-04-30 10:07:25,199 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout_6
+2018-04-30 10:07:25,199 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout_7
+2018-04-30 10:07:25,199 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 10:07:25,199 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 10:07:25,199 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 10:07:25,199 PyQt5.uic.uiparser DEBUG    push QLabel resultsLabel
+2018-04-30 10:07:25,199 PyQt5.uic.uiparser DEBUG    pop widget QLabel resultsLabel
+2018-04-30 10:07:25,199 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000018DAFD10AF8>
+2018-04-30 10:07:25,199 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout_7
+2018-04-30 10:07:25,199 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout
+2018-04-30 10:07:25,199 PyQt5.uic.uiparser DEBUG    push QGridLayout gridLayout
+2018-04-30 10:07:25,199 PyQt5.uic.properties DEBUG    setting property sizePolicy
+2018-04-30 10:07:25,205 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 10:07:25,206 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 10:07:25,207 PyQt5.uic.properties DEBUG    setting property baseSize
+2018-04-30 10:07:25,207 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 10:07:25,207 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 10:07:25,207 PyQt5.uic.properties DEBUG    setting property iconSize
+2018-04-30 10:07:25,207 PyQt5.uic.uiparser DEBUG    push QPushButton one
+2018-04-30 10:07:25,207 PyQt5.uic.uiparser DEBUG    pop widget QPushButton one
+2018-04-30 10:07:25,207 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000018DAFD10AF8>
+2018-04-30 10:07:25,207 PyQt5.uic.properties DEBUG    setting property sizePolicy
+2018-04-30 10:07:25,207 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 10:07:25,207 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 10:07:25,207 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 10:07:25,207 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 10:07:25,207 PyQt5.uic.uiparser DEBUG    push QPushButton two
+2018-04-30 10:07:25,207 PyQt5.uic.uiparser DEBUG    pop widget QPushButton two
+2018-04-30 10:07:25,207 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000018DAFD10AF8>
+2018-04-30 10:07:25,207 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 10:07:25,207 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 10:07:25,207 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 10:07:25,207 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 10:07:25,207 PyQt5.uic.uiparser DEBUG    push QPushButton three
+2018-04-30 10:07:25,207 PyQt5.uic.uiparser DEBUG    pop widget QPushButton three
+2018-04-30 10:07:25,207 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000018DAFD10AF8>
+2018-04-30 10:07:25,207 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 10:07:25,207 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 10:07:25,207 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 10:07:25,207 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 10:07:25,207 PyQt5.uic.uiparser DEBUG    push QPushButton four
+2018-04-30 10:07:25,207 PyQt5.uic.uiparser DEBUG    pop widget QPushButton four
+2018-04-30 10:07:25,207 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000018DAFD10AF8>
+2018-04-30 10:07:25,207 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 10:07:25,207 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 10:07:25,207 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 10:07:25,207 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 10:07:25,207 PyQt5.uic.uiparser DEBUG    push QPushButton five
+2018-04-30 10:07:25,207 PyQt5.uic.uiparser DEBUG    pop widget QPushButton five
+2018-04-30 10:07:25,207 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000018DAFD10AF8>
+2018-04-30 10:07:25,207 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 10:07:25,207 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 10:07:25,207 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 10:07:25,223 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 10:07:25,223 PyQt5.uic.uiparser DEBUG    push QPushButton six
+2018-04-30 10:07:25,223 PyQt5.uic.uiparser DEBUG    pop widget QPushButton six
+2018-04-30 10:07:25,223 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000018DAFD10AF8>
+2018-04-30 10:07:25,223 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 10:07:25,223 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 10:07:25,223 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 10:07:25,223 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 10:07:25,223 PyQt5.uic.uiparser DEBUG    push QPushButton seven
+2018-04-30 10:07:25,223 PyQt5.uic.uiparser DEBUG    pop widget QPushButton seven
+2018-04-30 10:07:25,223 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000018DAFD10AF8>
+2018-04-30 10:07:25,223 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 10:07:25,223 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 10:07:25,223 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 10:07:25,223 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 10:07:25,223 PyQt5.uic.uiparser DEBUG    push QPushButton eight
+2018-04-30 10:07:25,223 PyQt5.uic.uiparser DEBUG    pop widget QPushButton eight
+2018-04-30 10:07:25,223 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000018DAFD10AF8>
+2018-04-30 10:07:25,223 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 10:07:25,223 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 10:07:25,223 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 10:07:25,223 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 10:07:25,223 PyQt5.uic.uiparser DEBUG    push QPushButton nine
+2018-04-30 10:07:25,223 PyQt5.uic.uiparser DEBUG    pop widget QPushButton nine
+2018-04-30 10:07:25,223 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000018DAFD10AF8>
+2018-04-30 10:07:25,223 PyQt5.uic.uiparser DEBUG    pop layout QGridLayout gridLayout
+2018-04-30 10:07:25,223 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout
+2018-04-30 10:07:25,223 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout_2
+2018-04-30 10:07:25,223 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 10:07:25,223 PyQt5.uic.uiparser DEBUG    push QPushButton restartButton
+2018-04-30 10:07:25,223 PyQt5.uic.uiparser DEBUG    pop widget QPushButton restartButton
+2018-04-30 10:07:25,223 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000018DAFD10AF8>
+2018-04-30 10:07:25,223 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout_2
+2018-04-30 10:07:25,223 PyQt5.uic.uiparser DEBUG    pop layout QVBoxLayout verticalLayout
+2018-04-30 10:07:25,223 PyQt5.uic.uiparser DEBUG    pop layout QGridLayout gridLayout_2
+2018-04-30 10:07:25,223 PyQt5.uic.uiparser DEBUG    pop widget QWidget centralwidget
+2018-04-30 10:07:25,223 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.TCubeGame object at 0x0000018DAFC15168>
+2018-04-30 10:07:25,337 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 10:07:25,342 PyQt5.uic.uiparser DEBUG    push QMenuBar menubar
+2018-04-30 10:07:25,382 PyQt5.uic.properties DEBUG    setting property title
+2018-04-30 10:07:25,398 PyQt5.uic.uiparser DEBUG    push QMenu menuPreferences
+2018-04-30 10:07:25,398 PyQt5.uic.uiparser DEBUG    pop widget QMenu menuPreferences
+2018-04-30 10:07:25,398 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QMenuBar object at 0x0000018DAFED2948>
+2018-04-30 10:07:25,398 PyQt5.uic.uiparser DEBUG    pop widget QMenuBar menubar
+2018-04-30 10:07:25,398 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.TCubeGame object at 0x0000018DAFC15168>
+2018-04-30 10:07:25,456 PyQt5.uic.uiparser DEBUG    push QStatusBar statusbar
+2018-04-30 10:07:25,456 PyQt5.uic.uiparser DEBUG    pop widget QStatusBar statusbar
+2018-04-30 10:07:25,456 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.TCubeGame object at 0x0000018DAFC15168>
+2018-04-30 10:07:25,456 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 10:07:25,456 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 10:07:25,456 PyQt5.uic.uiparser DEBUG    pop widget TCubeGame MainWindow
+2018-04-30 10:07:25,456 PyQt5.uic.uiparser DEBUG    new topwidget None
+2018-04-30 10:07:25,456 PyQt5.uic.uiparser DEBUG    add action actionPreferences to menuPreferences
+2018-04-30 10:07:25,466 PyQt5.uic.uiparser DEBUG    add action actionRestart to menuPreferences
+2018-04-30 10:07:25,466 PyQt5.uic.uiparser DEBUG    add action menuPreferences to menubar
+2018-04-30 10:07:35,134 root     DEBUG    Loaded Pickle File
+2018-04-30 10:07:35,136 root     DEBUG    Loaded UI
+2018-04-30 10:07:35,159 PyQt5.uic.uiparser DEBUG    UI version is 4.0
+2018-04-30 10:07:35,159 PyQt5.uic.uiparser DEBUG    uiname is Dialog
+2018-04-30 10:07:35,159 PyQt5.uic.uiparser DEBUG    toplevel widget is preferencesDialog
+2018-04-30 10:07:35,159 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 10:07:35,159 PyQt5.uic.properties DEBUG    setting property windowTitle
+2018-04-30 10:07:35,159 PyQt5.uic.uiparser DEBUG    push preferencesDialog Dialog
+2018-04-30 10:07:35,159 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 10:07:35,159 PyQt5.uic.properties DEBUG    setting property orientation
+2018-04-30 10:07:35,159 PyQt5.uic.properties DEBUG    setting property standardButtons
+2018-04-30 10:07:35,159 PyQt5.uic.uiparser DEBUG    push QDialogButtonBox buttonBox
+2018-04-30 10:07:35,159 PyQt5.uic.uiparser DEBUG    pop widget QDialogButtonBox buttonBox
+2018-04-30 10:07:35,159 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.preferencesDialog object at 0x0000018DAFED2DC8>
+2018-04-30 10:07:35,159 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 10:07:35,159 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 10:07:35,159 PyQt5.uic.uiparser DEBUG    push QCheckBox moveFirst
+2018-04-30 10:07:35,159 PyQt5.uic.uiparser DEBUG    pop widget QCheckBox moveFirst
+2018-04-30 10:07:35,159 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.preferencesDialog object at 0x0000018DAFED2DC8>
+2018-04-30 10:07:35,159 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 10:07:35,159 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 10:07:35,159 PyQt5.uic.uiparser DEBUG    push QCheckBox playerMarkBox
+2018-04-30 10:07:35,159 PyQt5.uic.uiparser DEBUG    pop widget QCheckBox playerMarkBox
+2018-04-30 10:07:35,159 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.preferencesDialog object at 0x0000018DAFED2DC8>
+2018-04-30 10:07:35,168 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 10:07:35,168 PyQt5.uic.uiparser DEBUG    push QWidget widget
+2018-04-30 10:07:35,168 PyQt5.uic.properties DEBUG    setting property pyuicMargins
+2018-04-30 10:07:35,168 PyQt5.uic.uiparser DEBUG    push QVBoxLayout verticalLayout
+2018-04-30 10:07:35,210 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 10:07:35,210 PyQt5.uic.uiparser DEBUG    push QRadioButton easyButton
+2018-04-30 10:07:35,210 PyQt5.uic.uiparser DEBUG    pop widget QRadioButton easyButton
+2018-04-30 10:07:35,210 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000018DAFE92048>
+2018-04-30 10:07:35,210 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 10:07:35,210 PyQt5.uic.uiparser DEBUG    push QRadioButton hardButton
+2018-04-30 10:07:35,210 PyQt5.uic.uiparser DEBUG    pop widget QRadioButton hardButton
+2018-04-30 10:07:35,210 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000018DAFE92048>
+2018-04-30 10:07:35,210 PyQt5.uic.uiparser DEBUG    pop layout QVBoxLayout verticalLayout
+2018-04-30 10:07:35,210 PyQt5.uic.uiparser DEBUG    pop widget QWidget widget
+2018-04-30 10:07:35,210 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.preferencesDialog object at 0x0000018DAFED2DC8>
+2018-04-30 10:07:35,210 PyQt5.uic.uiparser DEBUG    pop widget preferencesDialog Dialog
+2018-04-30 10:07:35,210 PyQt5.uic.uiparser DEBUG    new topwidget None
+2018-04-30 11:52:23,854 PyQt5.uic.uiparser DEBUG    UI version is 4.0
+2018-04-30 11:52:23,854 PyQt5.uic.uiparser DEBUG    uiname is MainWindow
+2018-04-30 11:52:23,855 PyQt5.uic.uiparser DEBUG    toplevel widget is TCubeGame
+2018-04-30 11:52:23,855 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 11:52:23,855 PyQt5.uic.properties DEBUG    setting property windowTitle
+2018-04-30 11:52:23,855 PyQt5.uic.uiparser DEBUG    push TCubeGame MainWindow
+2018-04-30 11:52:23,855 PyQt5.uic.uiparser DEBUG    push QWidget centralwidget
+2018-04-30 11:52:23,855 PyQt5.uic.properties DEBUG    setting property pyuicMargins
+2018-04-30 11:52:23,856 PyQt5.uic.uiparser DEBUG    push QGridLayout gridLayout_2
+2018-04-30 11:52:23,856 PyQt5.uic.uiparser DEBUG    push QVBoxLayout verticalLayout
+2018-04-30 11:52:23,856 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout_6
+2018-04-30 11:52:23,856 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout_4
+2018-04-30 11:52:23,856 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 11:52:23,856 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 11:52:23,856 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 11:52:23,857 PyQt5.uic.uiparser DEBUG    push QLabel firstPlayerLabel
+2018-04-30 11:52:23,857 PyQt5.uic.uiparser DEBUG    pop widget QLabel firstPlayerLabel
+2018-04-30 11:52:23,857 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x000001EA7A6F0AF8>
+2018-04-30 11:52:23,857 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 11:52:23,857 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 11:52:23,857 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 11:52:23,859 PyQt5.uic.uiparser DEBUG    push QLabel firstScoreLabel
+2018-04-30 11:52:23,859 PyQt5.uic.uiparser DEBUG    pop widget QLabel firstScoreLabel
+2018-04-30 11:52:23,859 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x000001EA7A6F0AF8>
+2018-04-30 11:52:23,859 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout_4
+2018-04-30 11:52:23,859 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout_5
+2018-04-30 11:52:23,859 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 11:52:23,859 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 11:52:23,859 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 11:52:23,859 PyQt5.uic.uiparser DEBUG    push QLabel drawLabel
+2018-04-30 11:52:23,860 PyQt5.uic.uiparser DEBUG    pop widget QLabel drawLabel
+2018-04-30 11:52:23,860 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x000001EA7A6F0AF8>
+2018-04-30 11:52:23,860 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 11:52:23,860 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 11:52:23,860 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 11:52:23,860 PyQt5.uic.uiparser DEBUG    push QLabel drawScoreLabel
+2018-04-30 11:52:23,860 PyQt5.uic.uiparser DEBUG    pop widget QLabel drawScoreLabel
+2018-04-30 11:52:23,860 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x000001EA7A6F0AF8>
+2018-04-30 11:52:23,860 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout_5
+2018-04-30 11:52:23,861 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout_3
+2018-04-30 11:52:23,861 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 11:52:23,861 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 11:52:23,861 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 11:52:23,861 PyQt5.uic.uiparser DEBUG    push QLabel secondPlayerLabel
+2018-04-30 11:52:23,861 PyQt5.uic.uiparser DEBUG    pop widget QLabel secondPlayerLabel
+2018-04-30 11:52:23,862 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x000001EA7A6F0AF8>
+2018-04-30 11:52:23,862 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 11:52:23,862 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 11:52:23,862 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 11:52:23,862 PyQt5.uic.uiparser DEBUG    push QLabel secondScoreLabel
+2018-04-30 11:52:23,862 PyQt5.uic.uiparser DEBUG    pop widget QLabel secondScoreLabel
+2018-04-30 11:52:23,863 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x000001EA7A6F0AF8>
+2018-04-30 11:52:23,863 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout_3
+2018-04-30 11:52:23,863 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout_6
+2018-04-30 11:52:23,863 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout_7
+2018-04-30 11:52:23,863 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 11:52:23,863 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 11:52:23,863 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 11:52:23,863 PyQt5.uic.uiparser DEBUG    push QLabel resultsLabel
+2018-04-30 11:52:23,863 PyQt5.uic.uiparser DEBUG    pop widget QLabel resultsLabel
+2018-04-30 11:52:23,863 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x000001EA7A6F0AF8>
+2018-04-30 11:52:23,863 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout_7
+2018-04-30 11:52:23,863 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout
+2018-04-30 11:52:23,863 PyQt5.uic.uiparser DEBUG    push QGridLayout gridLayout
+2018-04-30 11:52:23,863 PyQt5.uic.properties DEBUG    setting property sizePolicy
+2018-04-30 11:52:23,863 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 11:52:23,863 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 11:52:23,863 PyQt5.uic.properties DEBUG    setting property baseSize
+2018-04-30 11:52:23,863 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 11:52:23,863 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 11:52:23,863 PyQt5.uic.properties DEBUG    setting property iconSize
+2018-04-30 11:52:23,863 PyQt5.uic.uiparser DEBUG    push QPushButton one
+2018-04-30 11:52:23,863 PyQt5.uic.uiparser DEBUG    pop widget QPushButton one
+2018-04-30 11:52:23,863 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x000001EA7A6F0AF8>
+2018-04-30 11:52:23,863 PyQt5.uic.properties DEBUG    setting property sizePolicy
+2018-04-30 11:52:23,863 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 11:52:23,863 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 11:52:23,863 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 11:52:23,863 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 11:52:23,863 PyQt5.uic.uiparser DEBUG    push QPushButton two
+2018-04-30 11:52:23,863 PyQt5.uic.uiparser DEBUG    pop widget QPushButton two
+2018-04-30 11:52:23,863 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x000001EA7A6F0AF8>
+2018-04-30 11:52:23,863 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 11:52:23,867 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 11:52:23,867 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 11:52:23,867 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 11:52:23,867 PyQt5.uic.uiparser DEBUG    push QPushButton three
+2018-04-30 11:52:23,867 PyQt5.uic.uiparser DEBUG    pop widget QPushButton three
+2018-04-30 11:52:23,867 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x000001EA7A6F0AF8>
+2018-04-30 11:52:23,868 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 11:52:23,868 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 11:52:23,868 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 11:52:23,868 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 11:52:23,869 PyQt5.uic.uiparser DEBUG    push QPushButton four
+2018-04-30 11:52:23,869 PyQt5.uic.uiparser DEBUG    pop widget QPushButton four
+2018-04-30 11:52:23,869 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x000001EA7A6F0AF8>
+2018-04-30 11:52:23,869 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 11:52:23,869 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 11:52:23,869 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 11:52:23,869 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 11:52:23,869 PyQt5.uic.uiparser DEBUG    push QPushButton five
+2018-04-30 11:52:23,869 PyQt5.uic.uiparser DEBUG    pop widget QPushButton five
+2018-04-30 11:52:23,869 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x000001EA7A6F0AF8>
+2018-04-30 11:52:23,869 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 11:52:23,870 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 11:52:23,870 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 11:52:23,870 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 11:52:23,870 PyQt5.uic.uiparser DEBUG    push QPushButton six
+2018-04-30 11:52:23,870 PyQt5.uic.uiparser DEBUG    pop widget QPushButton six
+2018-04-30 11:52:23,870 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x000001EA7A6F0AF8>
+2018-04-30 11:52:23,870 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 11:52:23,870 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 11:52:23,870 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 11:52:23,870 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 11:52:23,870 PyQt5.uic.uiparser DEBUG    push QPushButton seven
+2018-04-30 11:52:23,870 PyQt5.uic.uiparser DEBUG    pop widget QPushButton seven
+2018-04-30 11:52:23,870 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x000001EA7A6F0AF8>
+2018-04-30 11:52:23,870 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 11:52:23,870 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 11:52:23,870 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 11:52:23,870 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 11:52:23,870 PyQt5.uic.uiparser DEBUG    push QPushButton eight
+2018-04-30 11:52:23,870 PyQt5.uic.uiparser DEBUG    pop widget QPushButton eight
+2018-04-30 11:52:23,870 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x000001EA7A6F0AF8>
+2018-04-30 11:52:23,870 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 11:52:23,870 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 11:52:23,870 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 11:52:23,870 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 11:52:23,870 PyQt5.uic.uiparser DEBUG    push QPushButton nine
+2018-04-30 11:52:23,870 PyQt5.uic.uiparser DEBUG    pop widget QPushButton nine
+2018-04-30 11:52:23,870 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x000001EA7A6F0AF8>
+2018-04-30 11:52:23,870 PyQt5.uic.uiparser DEBUG    pop layout QGridLayout gridLayout
+2018-04-30 11:52:23,870 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout
+2018-04-30 11:52:23,870 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout_2
+2018-04-30 11:52:23,870 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 11:52:23,870 PyQt5.uic.uiparser DEBUG    push QPushButton restartButton
+2018-04-30 11:52:23,870 PyQt5.uic.uiparser DEBUG    pop widget QPushButton restartButton
+2018-04-30 11:52:23,870 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x000001EA7A6F0AF8>
+2018-04-30 11:52:23,870 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout_2
+2018-04-30 11:52:23,870 PyQt5.uic.uiparser DEBUG    pop layout QVBoxLayout verticalLayout
+2018-04-30 11:52:23,870 PyQt5.uic.uiparser DEBUG    pop layout QGridLayout gridLayout_2
+2018-04-30 11:52:23,870 PyQt5.uic.uiparser DEBUG    pop widget QWidget centralwidget
+2018-04-30 11:52:23,870 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.TCubeGame object at 0x000001EA7A605168>
+2018-04-30 11:52:23,875 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 11:52:23,875 PyQt5.uic.uiparser DEBUG    push QMenuBar menubar
+2018-04-30 11:52:23,875 PyQt5.uic.properties DEBUG    setting property title
+2018-04-30 11:52:23,875 PyQt5.uic.uiparser DEBUG    push QMenu menuPreferences
+2018-04-30 11:52:23,875 PyQt5.uic.uiparser DEBUG    pop widget QMenu menuPreferences
+2018-04-30 11:52:23,875 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QMenuBar object at 0x000001EA7ACE2948>
+2018-04-30 11:52:23,875 PyQt5.uic.uiparser DEBUG    pop widget QMenuBar menubar
+2018-04-30 11:52:23,876 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.TCubeGame object at 0x000001EA7A605168>
+2018-04-30 11:52:23,886 PyQt5.uic.uiparser DEBUG    push QStatusBar statusbar
+2018-04-30 11:52:23,886 PyQt5.uic.uiparser DEBUG    pop widget QStatusBar statusbar
+2018-04-30 11:52:23,886 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.TCubeGame object at 0x000001EA7A605168>
+2018-04-30 11:52:23,886 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 11:52:23,886 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 11:52:23,886 PyQt5.uic.uiparser DEBUG    pop widget TCubeGame MainWindow
+2018-04-30 11:52:23,886 PyQt5.uic.uiparser DEBUG    new topwidget None
+2018-04-30 11:52:23,887 PyQt5.uic.uiparser DEBUG    add action actionPreferences to menuPreferences
+2018-04-30 11:52:23,887 PyQt5.uic.uiparser DEBUG    add action actionRestart to menuPreferences
+2018-04-30 11:52:23,887 PyQt5.uic.uiparser DEBUG    add action menuPreferences to menubar
+2018-04-30 11:52:24,515 root     DEBUG    Loaded Pickle File
+2018-04-30 11:52:24,516 root     DEBUG    Loaded UI
+2018-04-30 11:52:24,520 PyQt5.uic.uiparser DEBUG    UI version is 4.0
+2018-04-30 11:52:24,520 PyQt5.uic.uiparser DEBUG    uiname is Dialog
+2018-04-30 11:52:24,520 PyQt5.uic.uiparser DEBUG    toplevel widget is preferencesDialog
+2018-04-30 11:52:24,520 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 11:52:24,521 PyQt5.uic.properties DEBUG    setting property windowTitle
+2018-04-30 11:52:24,521 PyQt5.uic.uiparser DEBUG    push preferencesDialog Dialog
+2018-04-30 11:52:24,521 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 11:52:24,521 PyQt5.uic.properties DEBUG    setting property orientation
+2018-04-30 11:52:24,521 PyQt5.uic.properties DEBUG    setting property standardButtons
+2018-04-30 11:52:24,521 PyQt5.uic.uiparser DEBUG    push QDialogButtonBox buttonBox
+2018-04-30 11:52:24,522 PyQt5.uic.uiparser DEBUG    pop widget QDialogButtonBox buttonBox
+2018-04-30 11:52:24,522 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.preferencesDialog object at 0x000001EA7ACE2DC8>
+2018-04-30 11:52:24,522 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 11:52:24,522 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 11:52:24,522 PyQt5.uic.uiparser DEBUG    push QCheckBox moveFirst
+2018-04-30 11:52:24,523 PyQt5.uic.uiparser DEBUG    pop widget QCheckBox moveFirst
+2018-04-30 11:52:24,523 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.preferencesDialog object at 0x000001EA7ACE2DC8>
+2018-04-30 11:52:24,523 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 11:52:24,523 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 11:52:24,523 PyQt5.uic.uiparser DEBUG    push QCheckBox playerMarkBox
+2018-04-30 11:52:24,523 PyQt5.uic.uiparser DEBUG    pop widget QCheckBox playerMarkBox
+2018-04-30 11:52:24,523 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.preferencesDialog object at 0x000001EA7ACE2DC8>
+2018-04-30 11:52:24,524 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 11:52:24,524 PyQt5.uic.uiparser DEBUG    push QWidget widget
+2018-04-30 11:52:24,524 PyQt5.uic.properties DEBUG    setting property pyuicMargins
+2018-04-30 11:52:24,524 PyQt5.uic.uiparser DEBUG    push QVBoxLayout verticalLayout
+2018-04-30 11:52:24,524 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 11:52:24,525 PyQt5.uic.uiparser DEBUG    push QRadioButton easyButton
+2018-04-30 11:52:24,525 PyQt5.uic.uiparser DEBUG    pop widget QRadioButton easyButton
+2018-04-30 11:52:24,525 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x000001EA7ACEF048>
+2018-04-30 11:52:24,525 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 11:52:24,525 PyQt5.uic.uiparser DEBUG    push QRadioButton hardButton
+2018-04-30 11:52:24,525 PyQt5.uic.uiparser DEBUG    pop widget QRadioButton hardButton
+2018-04-30 11:52:24,525 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x000001EA7ACEF048>
+2018-04-30 11:52:24,526 PyQt5.uic.uiparser DEBUG    pop layout QVBoxLayout verticalLayout
+2018-04-30 11:52:24,527 PyQt5.uic.uiparser DEBUG    pop widget QWidget widget
+2018-04-30 11:52:24,527 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.preferencesDialog object at 0x000001EA7ACE2DC8>
+2018-04-30 11:52:24,528 PyQt5.uic.uiparser DEBUG    pop widget preferencesDialog Dialog
+2018-04-30 11:52:24,528 PyQt5.uic.uiparser DEBUG    new topwidget None
+2018-04-30 12:40:34,121 PyQt5.uic.uiparser DEBUG    UI version is 4.0
+2018-04-30 12:40:34,122 PyQt5.uic.uiparser DEBUG    uiname is MainWindow
+2018-04-30 12:40:34,122 PyQt5.uic.uiparser DEBUG    toplevel widget is TCubeGame
+2018-04-30 12:40:34,122 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 12:40:34,122 PyQt5.uic.properties DEBUG    setting property windowTitle
+2018-04-30 12:40:34,122 PyQt5.uic.uiparser DEBUG    push TCubeGame MainWindow
+2018-04-30 12:40:34,123 PyQt5.uic.uiparser DEBUG    push QWidget centralwidget
+2018-04-30 12:40:34,123 PyQt5.uic.properties DEBUG    setting property pyuicMargins
+2018-04-30 12:40:34,123 PyQt5.uic.uiparser DEBUG    push QGridLayout gridLayout_2
+2018-04-30 12:40:34,123 PyQt5.uic.uiparser DEBUG    push QVBoxLayout verticalLayout
+2018-04-30 12:40:34,123 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout_6
+2018-04-30 12:40:34,123 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout_4
+2018-04-30 12:40:34,123 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:40:34,123 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:40:34,123 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 12:40:34,123 PyQt5.uic.uiparser DEBUG    push QLabel firstPlayerLabel
+2018-04-30 12:40:34,123 PyQt5.uic.uiparser DEBUG    pop widget QLabel firstPlayerLabel
+2018-04-30 12:40:34,123 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x000001D9FE550AF8>
+2018-04-30 12:40:34,123 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:40:34,123 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:40:34,123 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 12:40:34,123 PyQt5.uic.uiparser DEBUG    push QLabel firstScoreLabel
+2018-04-30 12:40:34,123 PyQt5.uic.uiparser DEBUG    pop widget QLabel firstScoreLabel
+2018-04-30 12:40:34,123 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x000001D9FE550AF8>
+2018-04-30 12:40:34,123 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout_4
+2018-04-30 12:40:34,123 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout_5
+2018-04-30 12:40:34,123 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:40:34,123 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:40:34,123 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 12:40:34,123 PyQt5.uic.uiparser DEBUG    push QLabel drawLabel
+2018-04-30 12:40:34,123 PyQt5.uic.uiparser DEBUG    pop widget QLabel drawLabel
+2018-04-30 12:40:34,123 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x000001D9FE550AF8>
+2018-04-30 12:40:34,123 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:40:34,127 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:40:34,127 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 12:40:34,127 PyQt5.uic.uiparser DEBUG    push QLabel drawScoreLabel
+2018-04-30 12:40:34,127 PyQt5.uic.uiparser DEBUG    pop widget QLabel drawScoreLabel
+2018-04-30 12:40:34,127 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x000001D9FE550AF8>
+2018-04-30 12:40:34,127 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout_5
+2018-04-30 12:40:34,127 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout_3
+2018-04-30 12:40:34,127 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:40:34,127 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:40:34,127 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 12:40:34,127 PyQt5.uic.uiparser DEBUG    push QLabel secondPlayerLabel
+2018-04-30 12:40:34,127 PyQt5.uic.uiparser DEBUG    pop widget QLabel secondPlayerLabel
+2018-04-30 12:40:34,127 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x000001D9FE550AF8>
+2018-04-30 12:40:34,127 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:40:34,127 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:40:34,127 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 12:40:34,127 PyQt5.uic.uiparser DEBUG    push QLabel secondScoreLabel
+2018-04-30 12:40:34,127 PyQt5.uic.uiparser DEBUG    pop widget QLabel secondScoreLabel
+2018-04-30 12:40:34,127 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x000001D9FE550AF8>
+2018-04-30 12:40:34,127 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout_3
+2018-04-30 12:40:34,127 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout_6
+2018-04-30 12:40:34,127 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout_7
+2018-04-30 12:40:34,127 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:40:34,127 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:40:34,127 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 12:40:34,127 PyQt5.uic.uiparser DEBUG    push QLabel resultsLabel
+2018-04-30 12:40:34,127 PyQt5.uic.uiparser DEBUG    pop widget QLabel resultsLabel
+2018-04-30 12:40:34,127 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x000001D9FE550AF8>
+2018-04-30 12:40:34,127 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout_7
+2018-04-30 12:40:34,127 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout
+2018-04-30 12:40:34,127 PyQt5.uic.uiparser DEBUG    push QGridLayout gridLayout
+2018-04-30 12:40:34,127 PyQt5.uic.properties DEBUG    setting property sizePolicy
+2018-04-30 12:40:34,127 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 12:40:34,127 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 12:40:34,127 PyQt5.uic.properties DEBUG    setting property baseSize
+2018-04-30 12:40:34,127 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:40:34,127 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:40:34,127 PyQt5.uic.properties DEBUG    setting property iconSize
+2018-04-30 12:40:34,131 PyQt5.uic.uiparser DEBUG    push QPushButton one
+2018-04-30 12:40:34,131 PyQt5.uic.uiparser DEBUG    pop widget QPushButton one
+2018-04-30 12:40:34,131 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x000001D9FE550AF8>
+2018-04-30 12:40:34,131 PyQt5.uic.properties DEBUG    setting property sizePolicy
+2018-04-30 12:40:34,131 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 12:40:34,131 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 12:40:34,132 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:40:34,132 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:40:34,132 PyQt5.uic.uiparser DEBUG    push QPushButton two
+2018-04-30 12:40:34,132 PyQt5.uic.uiparser DEBUG    pop widget QPushButton two
+2018-04-30 12:40:34,132 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x000001D9FE550AF8>
+2018-04-30 12:40:34,132 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 12:40:34,132 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 12:40:34,132 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:40:34,132 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:40:34,133 PyQt5.uic.uiparser DEBUG    push QPushButton three
+2018-04-30 12:40:34,133 PyQt5.uic.uiparser DEBUG    pop widget QPushButton three
+2018-04-30 12:40:34,133 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x000001D9FE550AF8>
+2018-04-30 12:40:34,133 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 12:40:34,133 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 12:40:34,133 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:40:34,133 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:40:34,133 PyQt5.uic.uiparser DEBUG    push QPushButton four
+2018-04-30 12:40:34,133 PyQt5.uic.uiparser DEBUG    pop widget QPushButton four
+2018-04-30 12:40:34,133 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x000001D9FE550AF8>
+2018-04-30 12:40:34,133 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 12:40:34,134 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 12:40:34,134 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:40:34,134 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:40:34,134 PyQt5.uic.uiparser DEBUG    push QPushButton five
+2018-04-30 12:40:34,134 PyQt5.uic.uiparser DEBUG    pop widget QPushButton five
+2018-04-30 12:40:34,134 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x000001D9FE550AF8>
+2018-04-30 12:40:34,134 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 12:40:34,134 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 12:40:34,134 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:40:34,134 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:40:34,134 PyQt5.uic.uiparser DEBUG    push QPushButton six
+2018-04-30 12:40:34,134 PyQt5.uic.uiparser DEBUG    pop widget QPushButton six
+2018-04-30 12:40:34,134 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x000001D9FE550AF8>
+2018-04-30 12:40:34,134 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 12:40:34,134 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 12:40:34,134 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:40:34,134 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:40:34,134 PyQt5.uic.uiparser DEBUG    push QPushButton seven
+2018-04-30 12:40:34,134 PyQt5.uic.uiparser DEBUG    pop widget QPushButton seven
+2018-04-30 12:40:34,134 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x000001D9FE550AF8>
+2018-04-30 12:40:34,134 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 12:40:34,134 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 12:40:34,134 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:40:34,134 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:40:34,134 PyQt5.uic.uiparser DEBUG    push QPushButton eight
+2018-04-30 12:40:34,134 PyQt5.uic.uiparser DEBUG    pop widget QPushButton eight
+2018-04-30 12:40:34,134 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x000001D9FE550AF8>
+2018-04-30 12:40:34,134 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 12:40:34,134 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 12:40:34,134 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:40:34,134 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:40:34,134 PyQt5.uic.uiparser DEBUG    push QPushButton nine
+2018-04-30 12:40:34,134 PyQt5.uic.uiparser DEBUG    pop widget QPushButton nine
+2018-04-30 12:40:34,134 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x000001D9FE550AF8>
+2018-04-30 12:40:34,134 PyQt5.uic.uiparser DEBUG    pop layout QGridLayout gridLayout
+2018-04-30 12:40:34,134 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout
+2018-04-30 12:40:34,134 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout_2
+2018-04-30 12:40:34,134 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:40:34,134 PyQt5.uic.uiparser DEBUG    push QPushButton restartButton
+2018-04-30 12:40:34,134 PyQt5.uic.uiparser DEBUG    pop widget QPushButton restartButton
+2018-04-30 12:40:34,134 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x000001D9FE550AF8>
+2018-04-30 12:40:34,134 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout_2
+2018-04-30 12:40:34,138 PyQt5.uic.uiparser DEBUG    pop layout QVBoxLayout verticalLayout
+2018-04-30 12:40:34,138 PyQt5.uic.uiparser DEBUG    pop layout QGridLayout gridLayout_2
+2018-04-30 12:40:34,138 PyQt5.uic.uiparser DEBUG    pop widget QWidget centralwidget
+2018-04-30 12:40:34,138 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.TCubeGame object at 0x000001D9FE465168>
+2018-04-30 12:40:34,141 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 12:40:34,141 PyQt5.uic.uiparser DEBUG    push QMenuBar menubar
+2018-04-30 12:40:34,141 PyQt5.uic.properties DEBUG    setting property title
+2018-04-30 12:40:34,141 PyQt5.uic.uiparser DEBUG    push QMenu menuPreferences
+2018-04-30 12:40:34,141 PyQt5.uic.uiparser DEBUG    pop widget QMenu menuPreferences
+2018-04-30 12:40:34,141 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QMenuBar object at 0x000001D9FE722948>
+2018-04-30 12:40:34,141 PyQt5.uic.uiparser DEBUG    pop widget QMenuBar menubar
+2018-04-30 12:40:34,142 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.TCubeGame object at 0x000001D9FE465168>
+2018-04-30 12:40:34,153 PyQt5.uic.uiparser DEBUG    push QStatusBar statusbar
+2018-04-30 12:40:34,153 PyQt5.uic.uiparser DEBUG    pop widget QStatusBar statusbar
+2018-04-30 12:40:34,153 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.TCubeGame object at 0x000001D9FE465168>
+2018-04-30 12:40:34,153 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:40:34,153 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:40:34,153 PyQt5.uic.uiparser DEBUG    pop widget TCubeGame MainWindow
+2018-04-30 12:40:34,153 PyQt5.uic.uiparser DEBUG    new topwidget None
+2018-04-30 12:40:34,153 PyQt5.uic.uiparser DEBUG    add action actionPreferences to menuPreferences
+2018-04-30 12:40:34,153 PyQt5.uic.uiparser DEBUG    add action actionRestart to menuPreferences
+2018-04-30 12:40:34,154 PyQt5.uic.uiparser DEBUG    add action menuPreferences to menubar
+2018-04-30 12:40:34,699 root     DEBUG    Loaded Pickle File
+2018-04-30 12:40:34,700 root     DEBUG    Loaded UI
+2018-04-30 12:40:34,702 PyQt5.uic.uiparser DEBUG    UI version is 4.0
+2018-04-30 12:40:34,702 PyQt5.uic.uiparser DEBUG    uiname is Dialog
+2018-04-30 12:40:34,702 PyQt5.uic.uiparser DEBUG    toplevel widget is preferencesDialog
+2018-04-30 12:40:34,702 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 12:40:34,702 PyQt5.uic.properties DEBUG    setting property windowTitle
+2018-04-30 12:40:34,704 PyQt5.uic.uiparser DEBUG    push preferencesDialog Dialog
+2018-04-30 12:40:34,704 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 12:40:34,704 PyQt5.uic.properties DEBUG    setting property orientation
+2018-04-30 12:40:34,706 PyQt5.uic.properties DEBUG    setting property standardButtons
+2018-04-30 12:40:34,706 PyQt5.uic.uiparser DEBUG    push QDialogButtonBox buttonBox
+2018-04-30 12:40:34,707 PyQt5.uic.uiparser DEBUG    pop widget QDialogButtonBox buttonBox
+2018-04-30 12:40:34,707 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.preferencesDialog object at 0x000001D9FE722DC8>
+2018-04-30 12:40:34,707 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 12:40:34,708 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:40:34,708 PyQt5.uic.uiparser DEBUG    push QCheckBox moveFirst
+2018-04-30 12:40:34,710 PyQt5.uic.uiparser DEBUG    pop widget QCheckBox moveFirst
+2018-04-30 12:40:34,712 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.preferencesDialog object at 0x000001D9FE722DC8>
+2018-04-30 12:40:34,712 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 12:40:34,712 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:40:34,712 PyQt5.uic.uiparser DEBUG    push QCheckBox playerMarkBox
+2018-04-30 12:40:34,712 PyQt5.uic.uiparser DEBUG    pop widget QCheckBox playerMarkBox
+2018-04-30 12:40:34,713 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.preferencesDialog object at 0x000001D9FE722DC8>
+2018-04-30 12:40:34,713 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 12:40:34,713 PyQt5.uic.uiparser DEBUG    push QWidget widget
+2018-04-30 12:40:34,713 PyQt5.uic.properties DEBUG    setting property pyuicMargins
+2018-04-30 12:40:34,713 PyQt5.uic.uiparser DEBUG    push QVBoxLayout verticalLayout
+2018-04-30 12:40:34,713 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:40:34,714 PyQt5.uic.uiparser DEBUG    push QRadioButton easyButton
+2018-04-30 12:40:34,714 PyQt5.uic.uiparser DEBUG    pop widget QRadioButton easyButton
+2018-04-30 12:40:34,714 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x000001D9FE72F048>
+2018-04-30 12:40:34,714 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:40:34,714 PyQt5.uic.uiparser DEBUG    push QRadioButton hardButton
+2018-04-30 12:40:34,714 PyQt5.uic.uiparser DEBUG    pop widget QRadioButton hardButton
+2018-04-30 12:40:34,715 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x000001D9FE72F048>
+2018-04-30 12:40:34,715 PyQt5.uic.uiparser DEBUG    pop layout QVBoxLayout verticalLayout
+2018-04-30 12:40:34,715 PyQt5.uic.uiparser DEBUG    pop widget QWidget widget
+2018-04-30 12:40:34,715 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.preferencesDialog object at 0x000001D9FE722DC8>
+2018-04-30 12:40:34,715 PyQt5.uic.uiparser DEBUG    pop widget preferencesDialog Dialog
+2018-04-30 12:40:34,715 PyQt5.uic.uiparser DEBUG    new topwidget None
+2018-04-30 12:40:38,230 root     INFO     Player Has Selected A Button.
+2018-04-30 12:40:38,250 root     INFO     CPU has chosen Random Move
+2018-04-30 12:40:39,530 root     INFO     Player Has Selected A Button.
+2018-04-30 12:40:39,530 root     INFO     CPU has chosen a Win Or Block Move
+2018-04-30 12:40:40,567 root     INFO     Player Has Selected A Button.
+2018-04-30 12:40:40,567 root     INFO     CPU has chosen a Win Or Block Move
+2018-04-30 12:40:42,320 root     INFO     Player Has Selected A Button.
+2018-04-30 12:40:42,320 root     INFO     CPU has chosen Random Move
+2018-04-30 12:40:43,738 root     INFO     Player Has Selected A Button.
+2018-04-30 12:40:46,858 root     INFO     Restarted Game
+2018-04-30 12:40:56,293 root     INFO     CPU has chosen Random Move
+2018-04-30 12:40:56,295 root     INFO     Restarted Game
+2018-04-30 12:40:59,784 root     INFO     Player Has Selected A Button.
+2018-04-30 12:40:59,784 root     INFO     CPU has chosen Random Move
+2018-04-30 12:41:00,901 root     INFO     Player Has Selected A Button.
+2018-04-30 12:41:00,901 root     INFO     CPU has chosen a Win Or Block Move
+2018-04-30 12:41:02,276 root     INFO     Player Has Selected A Button.
+2018-04-30 12:41:02,276 root     INFO     CPU has chosen a Win Or Block Move
+2018-04-30 12:41:05,437 root     INFO     Player Has Selected A Button.
+2018-04-30 12:41:05,438 root     INFO     X Wins
+2018-04-30 12:41:08,435 root     INFO     CPU has chosen Random Move
+2018-04-30 12:41:08,435 root     INFO     Restarted Game
+2018-04-30 12:41:10,627 root     INFO     Player Has Selected A Button.
+2018-04-30 12:41:10,627 root     INFO     CPU has chosen Random Move
+2018-04-30 12:41:11,696 root     INFO     Player Has Selected A Button.
+2018-04-30 12:41:11,696 root     INFO     CPU has chosen a Win Or Block Move
+2018-04-30 12:41:13,123 root     INFO     Player Has Selected A Button.
+2018-04-30 12:41:13,123 root     INFO     CPU has chosen a Win Or Block Move
+2018-04-30 12:41:13,124 root     INFO     O Wins
+2018-04-30 12:41:16,121 root     INFO     CPU has chosen a Win Or Block Move
+2018-04-30 12:41:16,121 root     INFO     Restarted Game
+2018-04-30 12:41:18,396 root     DEBUG    Saved Game
+2018-04-30 12:41:21,717 PyQt5.uic.uiparser DEBUG    UI version is 4.0
+2018-04-30 12:41:21,717 PyQt5.uic.uiparser DEBUG    uiname is MainWindow
+2018-04-30 12:41:21,717 PyQt5.uic.uiparser DEBUG    toplevel widget is TCubeGame
+2018-04-30 12:41:21,717 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 12:41:21,717 PyQt5.uic.properties DEBUG    setting property windowTitle
+2018-04-30 12:41:21,717 PyQt5.uic.uiparser DEBUG    push TCubeGame MainWindow
+2018-04-30 12:41:21,717 PyQt5.uic.uiparser DEBUG    push QWidget centralwidget
+2018-04-30 12:41:21,718 PyQt5.uic.properties DEBUG    setting property pyuicMargins
+2018-04-30 12:41:21,718 PyQt5.uic.uiparser DEBUG    push QGridLayout gridLayout_2
+2018-04-30 12:41:21,718 PyQt5.uic.uiparser DEBUG    push QVBoxLayout verticalLayout
+2018-04-30 12:41:21,718 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout_6
+2018-04-30 12:41:21,718 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout_4
+2018-04-30 12:41:21,719 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:41:21,719 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:41:21,719 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 12:41:21,720 PyQt5.uic.uiparser DEBUG    push QLabel firstPlayerLabel
+2018-04-30 12:41:21,720 PyQt5.uic.uiparser DEBUG    pop widget QLabel firstPlayerLabel
+2018-04-30 12:41:21,720 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x00000217FF6B0AF8>
+2018-04-30 12:41:21,721 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:41:21,721 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:41:21,721 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 12:41:21,721 PyQt5.uic.uiparser DEBUG    push QLabel firstScoreLabel
+2018-04-30 12:41:21,721 PyQt5.uic.uiparser DEBUG    pop widget QLabel firstScoreLabel
+2018-04-30 12:41:21,721 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x00000217FF6B0AF8>
+2018-04-30 12:41:21,721 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout_4
+2018-04-30 12:41:21,722 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout_5
+2018-04-30 12:41:21,722 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:41:21,722 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:41:21,722 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 12:41:21,722 PyQt5.uic.uiparser DEBUG    push QLabel drawLabel
+2018-04-30 12:41:21,722 PyQt5.uic.uiparser DEBUG    pop widget QLabel drawLabel
+2018-04-30 12:41:21,722 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x00000217FF6B0AF8>
+2018-04-30 12:41:21,722 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:41:21,723 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:41:21,723 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 12:41:21,723 PyQt5.uic.uiparser DEBUG    push QLabel drawScoreLabel
+2018-04-30 12:41:21,723 PyQt5.uic.uiparser DEBUG    pop widget QLabel drawScoreLabel
+2018-04-30 12:41:21,723 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x00000217FF6B0AF8>
+2018-04-30 12:41:21,723 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout_5
+2018-04-30 12:41:21,723 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout_3
+2018-04-30 12:41:21,723 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:41:21,723 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:41:21,723 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 12:41:21,723 PyQt5.uic.uiparser DEBUG    push QLabel secondPlayerLabel
+2018-04-30 12:41:21,724 PyQt5.uic.uiparser DEBUG    pop widget QLabel secondPlayerLabel
+2018-04-30 12:41:21,724 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x00000217FF6B0AF8>
+2018-04-30 12:41:21,724 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:41:21,724 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:41:21,724 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 12:41:21,724 PyQt5.uic.uiparser DEBUG    push QLabel secondScoreLabel
+2018-04-30 12:41:21,724 PyQt5.uic.uiparser DEBUG    pop widget QLabel secondScoreLabel
+2018-04-30 12:41:21,724 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x00000217FF6B0AF8>
+2018-04-30 12:41:21,724 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout_3
+2018-04-30 12:41:21,724 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout_6
+2018-04-30 12:41:21,724 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout_7
+2018-04-30 12:41:21,725 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:41:21,725 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:41:21,725 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 12:41:21,725 PyQt5.uic.uiparser DEBUG    push QLabel resultsLabel
+2018-04-30 12:41:21,725 PyQt5.uic.uiparser DEBUG    pop widget QLabel resultsLabel
+2018-04-30 12:41:21,725 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x00000217FF6B0AF8>
+2018-04-30 12:41:21,725 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout_7
+2018-04-30 12:41:21,725 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout
+2018-04-30 12:41:21,726 PyQt5.uic.uiparser DEBUG    push QGridLayout gridLayout
+2018-04-30 12:41:21,726 PyQt5.uic.properties DEBUG    setting property sizePolicy
+2018-04-30 12:41:21,726 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 12:41:21,726 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 12:41:21,726 PyQt5.uic.properties DEBUG    setting property baseSize
+2018-04-30 12:41:21,726 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:41:21,726 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:41:21,727 PyQt5.uic.properties DEBUG    setting property iconSize
+2018-04-30 12:41:21,727 PyQt5.uic.uiparser DEBUG    push QPushButton one
+2018-04-30 12:41:21,727 PyQt5.uic.uiparser DEBUG    pop widget QPushButton one
+2018-04-30 12:41:21,727 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x00000217FF6B0AF8>
+2018-04-30 12:41:21,727 PyQt5.uic.properties DEBUG    setting property sizePolicy
+2018-04-30 12:41:21,727 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 12:41:21,727 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 12:41:21,727 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:41:21,727 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:41:21,727 PyQt5.uic.uiparser DEBUG    push QPushButton two
+2018-04-30 12:41:21,727 PyQt5.uic.uiparser DEBUG    pop widget QPushButton two
+2018-04-30 12:41:21,727 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x00000217FF6B0AF8>
+2018-04-30 12:41:21,728 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 12:41:21,728 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 12:41:21,728 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:41:21,728 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:41:21,728 PyQt5.uic.uiparser DEBUG    push QPushButton three
+2018-04-30 12:41:21,728 PyQt5.uic.uiparser DEBUG    pop widget QPushButton three
+2018-04-30 12:41:21,728 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x00000217FF6B0AF8>
+2018-04-30 12:41:21,728 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 12:41:21,728 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 12:41:21,728 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:41:21,728 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:41:21,729 PyQt5.uic.uiparser DEBUG    push QPushButton four
+2018-04-30 12:41:21,729 PyQt5.uic.uiparser DEBUG    pop widget QPushButton four
+2018-04-30 12:41:21,729 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x00000217FF6B0AF8>
+2018-04-30 12:41:21,729 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 12:41:21,729 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 12:41:21,729 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:41:21,729 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:41:21,729 PyQt5.uic.uiparser DEBUG    push QPushButton five
+2018-04-30 12:41:21,729 PyQt5.uic.uiparser DEBUG    pop widget QPushButton five
+2018-04-30 12:41:21,729 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x00000217FF6B0AF8>
+2018-04-30 12:41:21,729 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 12:41:21,729 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 12:41:21,730 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:41:21,730 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:41:21,730 PyQt5.uic.uiparser DEBUG    push QPushButton six
+2018-04-30 12:41:21,730 PyQt5.uic.uiparser DEBUG    pop widget QPushButton six
+2018-04-30 12:41:21,730 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x00000217FF6B0AF8>
+2018-04-30 12:41:21,730 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 12:41:21,730 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 12:41:21,730 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:41:21,730 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:41:21,730 PyQt5.uic.uiparser DEBUG    push QPushButton seven
+2018-04-30 12:41:21,730 PyQt5.uic.uiparser DEBUG    pop widget QPushButton seven
+2018-04-30 12:41:21,731 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x00000217FF6B0AF8>
+2018-04-30 12:41:21,731 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 12:41:21,731 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 12:41:21,731 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:41:21,731 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:41:21,731 PyQt5.uic.uiparser DEBUG    push QPushButton eight
+2018-04-30 12:41:21,731 PyQt5.uic.uiparser DEBUG    pop widget QPushButton eight
+2018-04-30 12:41:21,731 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x00000217FF6B0AF8>
+2018-04-30 12:41:21,731 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 12:41:21,731 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 12:41:21,731 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:41:21,732 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:41:21,732 PyQt5.uic.uiparser DEBUG    push QPushButton nine
+2018-04-30 12:41:21,732 PyQt5.uic.uiparser DEBUG    pop widget QPushButton nine
+2018-04-30 12:41:21,732 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x00000217FF6B0AF8>
+2018-04-30 12:41:21,732 PyQt5.uic.uiparser DEBUG    pop layout QGridLayout gridLayout
+2018-04-30 12:41:21,732 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout
+2018-04-30 12:41:21,732 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout_2
+2018-04-30 12:41:21,732 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:41:21,732 PyQt5.uic.uiparser DEBUG    push QPushButton restartButton
+2018-04-30 12:41:21,732 PyQt5.uic.uiparser DEBUG    pop widget QPushButton restartButton
+2018-04-30 12:41:21,733 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x00000217FF6B0AF8>
+2018-04-30 12:41:21,733 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout_2
+2018-04-30 12:41:21,733 PyQt5.uic.uiparser DEBUG    pop layout QVBoxLayout verticalLayout
+2018-04-30 12:41:21,733 PyQt5.uic.uiparser DEBUG    pop layout QGridLayout gridLayout_2
+2018-04-30 12:41:21,733 PyQt5.uic.uiparser DEBUG    pop widget QWidget centralwidget
+2018-04-30 12:41:21,733 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.TCubeGame object at 0x00000217FF5C5168>
+2018-04-30 12:41:21,735 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 12:41:21,735 PyQt5.uic.uiparser DEBUG    push QMenuBar menubar
+2018-04-30 12:41:21,735 PyQt5.uic.properties DEBUG    setting property title
+2018-04-30 12:41:21,735 PyQt5.uic.uiparser DEBUG    push QMenu menuPreferences
+2018-04-30 12:41:21,735 PyQt5.uic.uiparser DEBUG    pop widget QMenu menuPreferences
+2018-04-30 12:41:21,735 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QMenuBar object at 0x00000217FF892948>
+2018-04-30 12:41:21,735 PyQt5.uic.uiparser DEBUG    pop widget QMenuBar menubar
+2018-04-30 12:41:21,736 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.TCubeGame object at 0x00000217FF5C5168>
+2018-04-30 12:41:21,742 PyQt5.uic.uiparser DEBUG    push QStatusBar statusbar
+2018-04-30 12:41:21,742 PyQt5.uic.uiparser DEBUG    pop widget QStatusBar statusbar
+2018-04-30 12:41:21,742 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.TCubeGame object at 0x00000217FF5C5168>
+2018-04-30 12:41:21,743 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:41:21,743 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:41:21,743 PyQt5.uic.uiparser DEBUG    pop widget TCubeGame MainWindow
+2018-04-30 12:41:21,743 PyQt5.uic.uiparser DEBUG    new topwidget None
+2018-04-30 12:41:21,743 PyQt5.uic.uiparser DEBUG    add action actionPreferences to menuPreferences
+2018-04-30 12:41:21,743 PyQt5.uic.uiparser DEBUG    add action actionRestart to menuPreferences
+2018-04-30 12:41:21,743 PyQt5.uic.uiparser DEBUG    add action menuPreferences to menubar
+2018-04-30 12:41:22,364 root     DEBUG    Loaded Pickle File
+2018-04-30 12:41:22,365 root     DEBUG    Loaded UI
+2018-04-30 12:41:22,370 PyQt5.uic.uiparser DEBUG    UI version is 4.0
+2018-04-30 12:41:22,370 PyQt5.uic.uiparser DEBUG    uiname is Dialog
+2018-04-30 12:41:22,370 PyQt5.uic.uiparser DEBUG    toplevel widget is preferencesDialog
+2018-04-30 12:41:22,371 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 12:41:22,371 PyQt5.uic.properties DEBUG    setting property windowTitle
+2018-04-30 12:41:22,371 PyQt5.uic.uiparser DEBUG    push preferencesDialog Dialog
+2018-04-30 12:41:22,371 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 12:41:22,372 PyQt5.uic.properties DEBUG    setting property orientation
+2018-04-30 12:41:22,372 PyQt5.uic.properties DEBUG    setting property standardButtons
+2018-04-30 12:41:22,372 PyQt5.uic.uiparser DEBUG    push QDialogButtonBox buttonBox
+2018-04-30 12:41:22,372 PyQt5.uic.uiparser DEBUG    pop widget QDialogButtonBox buttonBox
+2018-04-30 12:41:22,373 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.preferencesDialog object at 0x00000217FF892DC8>
+2018-04-30 12:41:22,373 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 12:41:22,373 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:41:22,373 PyQt5.uic.uiparser DEBUG    push QCheckBox moveFirst
+2018-04-30 12:41:22,374 PyQt5.uic.uiparser DEBUG    pop widget QCheckBox moveFirst
+2018-04-30 12:41:22,374 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.preferencesDialog object at 0x00000217FF892DC8>
+2018-04-30 12:41:22,374 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 12:41:22,374 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:41:22,375 PyQt5.uic.uiparser DEBUG    push QCheckBox playerMarkBox
+2018-04-30 12:41:22,375 PyQt5.uic.uiparser DEBUG    pop widget QCheckBox playerMarkBox
+2018-04-30 12:41:22,375 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.preferencesDialog object at 0x00000217FF892DC8>
+2018-04-30 12:41:22,375 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 12:41:22,375 PyQt5.uic.uiparser DEBUG    push QWidget widget
+2018-04-30 12:41:22,375 PyQt5.uic.properties DEBUG    setting property pyuicMargins
+2018-04-30 12:41:22,376 PyQt5.uic.uiparser DEBUG    push QVBoxLayout verticalLayout
+2018-04-30 12:41:22,376 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:41:22,376 PyQt5.uic.uiparser DEBUG    push QRadioButton easyButton
+2018-04-30 12:41:22,376 PyQt5.uic.uiparser DEBUG    pop widget QRadioButton easyButton
+2018-04-30 12:41:22,376 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x00000217FF841048>
+2018-04-30 12:41:22,377 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:41:22,377 PyQt5.uic.uiparser DEBUG    push QRadioButton hardButton
+2018-04-30 12:41:22,377 PyQt5.uic.uiparser DEBUG    pop widget QRadioButton hardButton
+2018-04-30 12:41:22,378 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x00000217FF841048>
+2018-04-30 12:41:22,378 PyQt5.uic.uiparser DEBUG    pop layout QVBoxLayout verticalLayout
+2018-04-30 12:41:22,378 PyQt5.uic.uiparser DEBUG    pop widget QWidget widget
+2018-04-30 12:41:22,378 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.preferencesDialog object at 0x00000217FF892DC8>
+2018-04-30 12:41:22,378 PyQt5.uic.uiparser DEBUG    pop widget preferencesDialog Dialog
+2018-04-30 12:41:22,378 PyQt5.uic.uiparser DEBUG    new topwidget None
+2018-04-30 12:41:23,974 root     DEBUG    Saved Game
+2018-04-30 12:58:26,801 PyQt5.uic.uiparser DEBUG    UI version is 4.0
+2018-04-30 12:58:26,801 PyQt5.uic.uiparser DEBUG    uiname is MainWindow
+2018-04-30 12:58:26,801 PyQt5.uic.uiparser DEBUG    toplevel widget is TCubeGame
+2018-04-30 12:58:26,801 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 12:58:26,801 PyQt5.uic.properties DEBUG    setting property windowTitle
+2018-04-30 12:58:26,801 PyQt5.uic.uiparser DEBUG    push TCubeGame MainWindow
+2018-04-30 12:58:26,801 PyQt5.uic.uiparser DEBUG    push QWidget centralwidget
+2018-04-30 12:58:26,804 PyQt5.uic.properties DEBUG    setting property pyuicMargins
+2018-04-30 12:58:26,804 PyQt5.uic.uiparser DEBUG    push QGridLayout gridLayout_2
+2018-04-30 12:58:26,804 PyQt5.uic.uiparser DEBUG    push QVBoxLayout verticalLayout
+2018-04-30 12:58:26,804 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout_6
+2018-04-30 12:58:26,804 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout_4
+2018-04-30 12:58:26,805 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:58:26,805 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:58:26,805 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 12:58:26,806 PyQt5.uic.uiparser DEBUG    push QLabel firstPlayerLabel
+2018-04-30 12:58:26,806 PyQt5.uic.uiparser DEBUG    pop widget QLabel firstPlayerLabel
+2018-04-30 12:58:26,806 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000022529520AF8>
+2018-04-30 12:58:26,806 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:58:26,806 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:58:26,807 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 12:58:26,807 PyQt5.uic.uiparser DEBUG    push QLabel firstScoreLabel
+2018-04-30 12:58:26,807 PyQt5.uic.uiparser DEBUG    pop widget QLabel firstScoreLabel
+2018-04-30 12:58:26,807 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000022529520AF8>
+2018-04-30 12:58:26,807 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout_4
+2018-04-30 12:58:26,807 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout_5
+2018-04-30 12:58:26,807 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:58:26,807 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    push QLabel drawLabel
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    pop widget QLabel drawLabel
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000022529520AF8>
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    push QLabel drawScoreLabel
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    pop widget QLabel drawScoreLabel
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000022529520AF8>
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout_5
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout_3
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    push QLabel secondPlayerLabel
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    pop widget QLabel secondPlayerLabel
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000022529520AF8>
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    push QLabel secondScoreLabel
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    pop widget QLabel secondScoreLabel
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000022529520AF8>
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout_3
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout_6
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout_7
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    push QLabel resultsLabel
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    pop widget QLabel resultsLabel
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000022529520AF8>
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout_7
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    push QGridLayout gridLayout
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property sizePolicy
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property baseSize
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property iconSize
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    push QPushButton one
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    pop widget QPushButton one
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000022529520AF8>
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property sizePolicy
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    push QPushButton two
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    pop widget QPushButton two
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000022529520AF8>
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    push QPushButton three
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    pop widget QPushButton three
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000022529520AF8>
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    push QPushButton four
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    pop widget QPushButton four
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000022529520AF8>
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    push QPushButton five
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    pop widget QPushButton five
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000022529520AF8>
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    push QPushButton six
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    pop widget QPushButton six
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000022529520AF8>
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    push QPushButton seven
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    pop widget QPushButton seven
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000022529520AF8>
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:58:26,808 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    push QPushButton eight
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    pop widget QPushButton eight
+2018-04-30 12:58:26,808 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000022529520AF8>
+2018-04-30 12:58:26,819 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 12:58:26,819 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 12:58:26,819 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 12:58:26,819 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:58:26,819 PyQt5.uic.uiparser DEBUG    push QPushButton nine
+2018-04-30 12:58:26,819 PyQt5.uic.uiparser DEBUG    pop widget QPushButton nine
+2018-04-30 12:58:26,819 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000022529520AF8>
+2018-04-30 12:58:26,819 PyQt5.uic.uiparser DEBUG    pop layout QGridLayout gridLayout
+2018-04-30 12:58:26,819 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout
+2018-04-30 12:58:26,820 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout_2
+2018-04-30 12:58:26,820 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:58:26,820 PyQt5.uic.uiparser DEBUG    push QPushButton restartButton
+2018-04-30 12:58:26,820 PyQt5.uic.uiparser DEBUG    pop widget QPushButton restartButton
+2018-04-30 12:58:26,820 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000022529520AF8>
+2018-04-30 12:58:26,820 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout_2
+2018-04-30 12:58:26,820 PyQt5.uic.uiparser DEBUG    pop layout QVBoxLayout verticalLayout
+2018-04-30 12:58:26,820 PyQt5.uic.uiparser DEBUG    pop layout QGridLayout gridLayout_2
+2018-04-30 12:58:26,820 PyQt5.uic.uiparser DEBUG    pop widget QWidget centralwidget
+2018-04-30 12:58:26,820 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.TCubeGame object at 0x0000022529445168>
+2018-04-30 12:58:26,823 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 12:58:26,823 PyQt5.uic.uiparser DEBUG    push QMenuBar menubar
+2018-04-30 12:58:26,823 PyQt5.uic.properties DEBUG    setting property title
+2018-04-30 12:58:26,823 PyQt5.uic.uiparser DEBUG    push QMenu menuPreferences
+2018-04-30 12:58:26,824 PyQt5.uic.uiparser DEBUG    pop widget QMenu menuPreferences
+2018-04-30 12:58:26,824 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QMenuBar object at 0x00000225296F2948>
+2018-04-30 12:58:26,824 PyQt5.uic.uiparser DEBUG    pop widget QMenuBar menubar
+2018-04-30 12:58:26,824 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.TCubeGame object at 0x0000022529445168>
+2018-04-30 12:58:26,831 PyQt5.uic.uiparser DEBUG    push QStatusBar statusbar
+2018-04-30 12:58:26,831 PyQt5.uic.uiparser DEBUG    pop widget QStatusBar statusbar
+2018-04-30 12:58:26,831 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.TCubeGame object at 0x0000022529445168>
+2018-04-30 12:58:26,831 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:58:26,832 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:58:26,832 PyQt5.uic.uiparser DEBUG    pop widget TCubeGame MainWindow
+2018-04-30 12:58:26,832 PyQt5.uic.uiparser DEBUG    new topwidget None
+2018-04-30 12:58:26,832 PyQt5.uic.uiparser DEBUG    add action actionPreferences to menuPreferences
+2018-04-30 12:58:26,832 PyQt5.uic.uiparser DEBUG    add action actionRestart to menuPreferences
+2018-04-30 12:58:26,832 PyQt5.uic.uiparser DEBUG    add action menuPreferences to menubar
+2018-04-30 12:58:27,416 root     DEBUG    Loaded Pickle File
+2018-04-30 12:58:27,417 root     DEBUG    Loaded UI
+2018-04-30 12:58:27,421 PyQt5.uic.uiparser DEBUG    UI version is 4.0
+2018-04-30 12:58:27,421 PyQt5.uic.uiparser DEBUG    uiname is Dialog
+2018-04-30 12:58:27,421 PyQt5.uic.uiparser DEBUG    toplevel widget is preferencesDialog
+2018-04-30 12:58:27,421 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 12:58:27,421 PyQt5.uic.properties DEBUG    setting property windowTitle
+2018-04-30 12:58:27,421 PyQt5.uic.uiparser DEBUG    push preferencesDialog Dialog
+2018-04-30 12:58:27,422 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 12:58:27,423 PyQt5.uic.properties DEBUG    setting property orientation
+2018-04-30 12:58:27,423 PyQt5.uic.properties DEBUG    setting property standardButtons
+2018-04-30 12:58:27,424 PyQt5.uic.uiparser DEBUG    push QDialogButtonBox buttonBox
+2018-04-30 12:58:27,425 PyQt5.uic.uiparser DEBUG    pop widget QDialogButtonBox buttonBox
+2018-04-30 12:58:27,425 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.preferencesDialog object at 0x00000225296F2DC8>
+2018-04-30 12:58:27,425 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 12:58:27,427 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:58:27,427 PyQt5.uic.uiparser DEBUG    push QCheckBox moveFirst
+2018-04-30 12:58:27,427 PyQt5.uic.uiparser DEBUG    pop widget QCheckBox moveFirst
+2018-04-30 12:58:27,427 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.preferencesDialog object at 0x00000225296F2DC8>
+2018-04-30 12:58:27,427 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 12:58:27,428 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:58:27,428 PyQt5.uic.uiparser DEBUG    push QCheckBox playerMarkBox
+2018-04-30 12:58:27,428 PyQt5.uic.uiparser DEBUG    pop widget QCheckBox playerMarkBox
+2018-04-30 12:58:27,428 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.preferencesDialog object at 0x00000225296F2DC8>
+2018-04-30 12:58:27,428 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 12:58:27,428 PyQt5.uic.uiparser DEBUG    push QWidget widget
+2018-04-30 12:58:27,429 PyQt5.uic.properties DEBUG    setting property pyuicMargins
+2018-04-30 12:58:27,429 PyQt5.uic.uiparser DEBUG    push QVBoxLayout verticalLayout
+2018-04-30 12:58:27,429 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:58:27,429 PyQt5.uic.uiparser DEBUG    push QRadioButton easyButton
+2018-04-30 12:58:27,429 PyQt5.uic.uiparser DEBUG    pop widget QRadioButton easyButton
+2018-04-30 12:58:27,429 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x00000225296A2048>
+2018-04-30 12:58:27,429 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 12:58:27,429 PyQt5.uic.uiparser DEBUG    push QRadioButton hardButton
+2018-04-30 12:58:27,429 PyQt5.uic.uiparser DEBUG    pop widget QRadioButton hardButton
+2018-04-30 12:58:27,429 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x00000225296A2048>
+2018-04-30 12:58:27,429 PyQt5.uic.uiparser DEBUG    pop layout QVBoxLayout verticalLayout
+2018-04-30 12:58:27,429 PyQt5.uic.uiparser DEBUG    pop widget QWidget widget
+2018-04-30 12:58:27,429 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.preferencesDialog object at 0x00000225296F2DC8>
+2018-04-30 12:58:27,429 PyQt5.uic.uiparser DEBUG    pop widget preferencesDialog Dialog
+2018-04-30 12:58:27,429 PyQt5.uic.uiparser DEBUG    new topwidget None
+2018-04-30 12:58:47,887 root     INFO     Restarted Game
+2018-04-30 12:58:52,103 root     INFO     Player Has Selected A Button.
+2018-04-30 12:58:52,103 root     INFO     CPU has chosen Random Move
+2018-04-30 12:58:52,736 root     INFO     Player Has Selected A Button.
+2018-04-30 12:58:52,737 root     INFO     CPU has chosen a Win Or Block Move
+2018-04-30 12:58:53,815 root     INFO     Player Has Selected A Button.
+2018-04-30 12:58:53,816 root     INFO     CPU has chosen a Win Or Block Move
+2018-04-30 12:59:03,641 root     INFO     Restarted Game
+2018-04-30 12:59:05,012 root     INFO     Player Has Selected A Button.
+2018-04-30 12:59:05,012 root     INFO     CPU has chosen Random Move
+2018-04-30 12:59:05,863 root     INFO     Player Has Selected A Button.
+2018-04-30 12:59:05,863 root     INFO     CPU has chosen a Win Or Block Move
+2018-04-30 12:59:07,378 root     INFO     Player Has Selected A Button.
+2018-04-30 12:59:07,378 root     INFO     CPU has chosen a Win Or Block Move
+2018-04-30 13:05:47,962 root     DEBUG    Saved Game
+2018-04-30 23:31:19,788 PyQt5.uic.uiparser DEBUG    UI version is 4.0
+2018-04-30 23:31:19,788 PyQt5.uic.uiparser DEBUG    uiname is MainWindow
+2018-04-30 23:31:19,788 PyQt5.uic.uiparser DEBUG    toplevel widget is TCubeGame
+2018-04-30 23:31:19,788 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 23:31:19,788 PyQt5.uic.properties DEBUG    setting property windowTitle
+2018-04-30 23:31:19,789 PyQt5.uic.uiparser DEBUG    push TCubeGame MainWindow
+2018-04-30 23:31:19,789 PyQt5.uic.uiparser DEBUG    push QWidget centralwidget
+2018-04-30 23:31:19,789 PyQt5.uic.properties DEBUG    setting property pyuicMargins
+2018-04-30 23:31:19,789 PyQt5.uic.uiparser DEBUG    push QGridLayout gridLayout_2
+2018-04-30 23:31:19,789 PyQt5.uic.uiparser DEBUG    push QVBoxLayout verticalLayout
+2018-04-30 23:31:19,789 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout_6
+2018-04-30 23:31:19,789 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout_4
+2018-04-30 23:31:19,790 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 23:31:19,790 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 23:31:19,790 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 23:31:19,791 PyQt5.uic.uiparser DEBUG    push QLabel firstPlayerLabel
+2018-04-30 23:31:19,791 PyQt5.uic.uiparser DEBUG    pop widget QLabel firstPlayerLabel
+2018-04-30 23:31:19,792 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000020517310AF8>
+2018-04-30 23:31:19,792 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 23:31:19,792 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 23:31:19,792 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 23:31:19,793 PyQt5.uic.uiparser DEBUG    push QLabel firstScoreLabel
+2018-04-30 23:31:19,793 PyQt5.uic.uiparser DEBUG    pop widget QLabel firstScoreLabel
+2018-04-30 23:31:19,793 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000020517310AF8>
+2018-04-30 23:31:19,793 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout_4
+2018-04-30 23:31:19,793 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout_5
+2018-04-30 23:31:19,793 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 23:31:19,793 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 23:31:19,793 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 23:31:19,794 PyQt5.uic.uiparser DEBUG    push QLabel drawLabel
+2018-04-30 23:31:19,794 PyQt5.uic.uiparser DEBUG    pop widget QLabel drawLabel
+2018-04-30 23:31:19,794 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000020517310AF8>
+2018-04-30 23:31:19,794 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 23:31:19,794 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 23:31:19,794 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 23:31:19,794 PyQt5.uic.uiparser DEBUG    push QLabel drawScoreLabel
+2018-04-30 23:31:19,794 PyQt5.uic.uiparser DEBUG    pop widget QLabel drawScoreLabel
+2018-04-30 23:31:19,794 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000020517310AF8>
+2018-04-30 23:31:19,794 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout_5
+2018-04-30 23:31:19,795 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout_3
+2018-04-30 23:31:19,795 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 23:31:19,795 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 23:31:19,795 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 23:31:19,795 PyQt5.uic.uiparser DEBUG    push QLabel secondPlayerLabel
+2018-04-30 23:31:19,795 PyQt5.uic.uiparser DEBUG    pop widget QLabel secondPlayerLabel
+2018-04-30 23:31:19,795 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000020517310AF8>
+2018-04-30 23:31:19,795 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 23:31:19,796 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 23:31:19,796 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 23:31:19,796 PyQt5.uic.uiparser DEBUG    push QLabel secondScoreLabel
+2018-04-30 23:31:19,796 PyQt5.uic.uiparser DEBUG    pop widget QLabel secondScoreLabel
+2018-04-30 23:31:19,796 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000020517310AF8>
+2018-04-30 23:31:19,796 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout_3
+2018-04-30 23:31:19,796 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout_6
+2018-04-30 23:31:19,796 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout_7
+2018-04-30 23:31:19,796 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 23:31:19,796 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 23:31:19,797 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 23:31:19,797 PyQt5.uic.uiparser DEBUG    push QLabel resultsLabel
+2018-04-30 23:31:19,797 PyQt5.uic.uiparser DEBUG    pop widget QLabel resultsLabel
+2018-04-30 23:31:19,797 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000020517310AF8>
+2018-04-30 23:31:19,797 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout_7
+2018-04-30 23:31:19,797 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout
+2018-04-30 23:31:19,797 PyQt5.uic.uiparser DEBUG    push QGridLayout gridLayout
+2018-04-30 23:31:19,797 PyQt5.uic.properties DEBUG    setting property sizePolicy
+2018-04-30 23:31:19,798 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 23:31:19,798 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 23:31:19,798 PyQt5.uic.properties DEBUG    setting property baseSize
+2018-04-30 23:31:19,798 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 23:31:19,798 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 23:31:19,798 PyQt5.uic.properties DEBUG    setting property iconSize
+2018-04-30 23:31:19,798 PyQt5.uic.uiparser DEBUG    push QPushButton one
+2018-04-30 23:31:19,798 PyQt5.uic.uiparser DEBUG    pop widget QPushButton one
+2018-04-30 23:31:19,798 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000020517310AF8>
+2018-04-30 23:31:19,798 PyQt5.uic.properties DEBUG    setting property sizePolicy
+2018-04-30 23:31:19,799 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 23:31:19,799 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 23:31:19,799 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 23:31:19,799 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 23:31:19,799 PyQt5.uic.uiparser DEBUG    push QPushButton two
+2018-04-30 23:31:19,799 PyQt5.uic.uiparser DEBUG    pop widget QPushButton two
+2018-04-30 23:31:19,799 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000020517310AF8>
+2018-04-30 23:31:19,799 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 23:31:19,799 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 23:31:19,799 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 23:31:19,800 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 23:31:19,800 PyQt5.uic.uiparser DEBUG    push QPushButton three
+2018-04-30 23:31:19,800 PyQt5.uic.uiparser DEBUG    pop widget QPushButton three
+2018-04-30 23:31:19,800 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000020517310AF8>
+2018-04-30 23:31:19,800 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 23:31:19,800 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 23:31:19,800 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 23:31:19,800 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 23:31:19,800 PyQt5.uic.uiparser DEBUG    push QPushButton four
+2018-04-30 23:31:19,801 PyQt5.uic.uiparser DEBUG    pop widget QPushButton four
+2018-04-30 23:31:19,801 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000020517310AF8>
+2018-04-30 23:31:19,801 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 23:31:19,801 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 23:31:19,801 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 23:31:19,801 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 23:31:19,801 PyQt5.uic.uiparser DEBUG    push QPushButton five
+2018-04-30 23:31:19,801 PyQt5.uic.uiparser DEBUG    pop widget QPushButton five
+2018-04-30 23:31:19,801 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000020517310AF8>
+2018-04-30 23:31:19,802 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 23:31:19,802 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 23:31:19,802 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 23:31:19,802 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 23:31:19,802 PyQt5.uic.uiparser DEBUG    push QPushButton six
+2018-04-30 23:31:19,802 PyQt5.uic.uiparser DEBUG    pop widget QPushButton six
+2018-04-30 23:31:19,803 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000020517310AF8>
+2018-04-30 23:31:19,803 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 23:31:19,803 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 23:31:19,803 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 23:31:19,803 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 23:31:19,803 PyQt5.uic.uiparser DEBUG    push QPushButton seven
+2018-04-30 23:31:19,804 PyQt5.uic.uiparser DEBUG    pop widget QPushButton seven
+2018-04-30 23:31:19,804 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000020517310AF8>
+2018-04-30 23:31:19,804 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 23:31:19,804 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 23:31:19,804 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 23:31:19,804 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 23:31:19,805 PyQt5.uic.uiparser DEBUG    push QPushButton eight
+2018-04-30 23:31:19,805 PyQt5.uic.uiparser DEBUG    pop widget QPushButton eight
+2018-04-30 23:31:19,805 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000020517310AF8>
+2018-04-30 23:31:19,805 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 23:31:19,805 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 23:31:19,805 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 23:31:19,805 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 23:31:19,806 PyQt5.uic.uiparser DEBUG    push QPushButton nine
+2018-04-30 23:31:19,806 PyQt5.uic.uiparser DEBUG    pop widget QPushButton nine
+2018-04-30 23:31:19,806 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000020517310AF8>
+2018-04-30 23:31:19,806 PyQt5.uic.uiparser DEBUG    pop layout QGridLayout gridLayout
+2018-04-30 23:31:19,806 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout
+2018-04-30 23:31:19,806 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout_2
+2018-04-30 23:31:19,807 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 23:31:19,807 PyQt5.uic.uiparser DEBUG    push QPushButton restartButton
+2018-04-30 23:31:19,807 PyQt5.uic.uiparser DEBUG    pop widget QPushButton restartButton
+2018-04-30 23:31:19,807 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000020517310AF8>
+2018-04-30 23:31:19,807 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout_2
+2018-04-30 23:31:19,807 PyQt5.uic.uiparser DEBUG    pop layout QVBoxLayout verticalLayout
+2018-04-30 23:31:19,808 PyQt5.uic.uiparser DEBUG    pop layout QGridLayout gridLayout_2
+2018-04-30 23:31:19,808 PyQt5.uic.uiparser DEBUG    pop widget QWidget centralwidget
+2018-04-30 23:31:19,808 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.TCubeGame object at 0x0000020517235168>
+2018-04-30 23:31:19,833 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 23:31:19,834 PyQt5.uic.uiparser DEBUG    push QMenuBar menubar
+2018-04-30 23:31:19,834 PyQt5.uic.properties DEBUG    setting property title
+2018-04-30 23:31:19,834 PyQt5.uic.uiparser DEBUG    push QMenu menuPreferences
+2018-04-30 23:31:19,834 PyQt5.uic.uiparser DEBUG    pop widget QMenu menuPreferences
+2018-04-30 23:31:19,834 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QMenuBar object at 0x00000205174E2948>
+2018-04-30 23:31:19,835 PyQt5.uic.uiparser DEBUG    pop widget QMenuBar menubar
+2018-04-30 23:31:19,835 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.TCubeGame object at 0x0000020517235168>
+2018-04-30 23:31:19,849 PyQt5.uic.uiparser DEBUG    push QStatusBar statusbar
+2018-04-30 23:31:19,849 PyQt5.uic.uiparser DEBUG    pop widget QStatusBar statusbar
+2018-04-30 23:31:19,849 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.TCubeGame object at 0x0000020517235168>
+2018-04-30 23:31:19,849 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 23:31:19,849 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 23:31:19,849 PyQt5.uic.uiparser DEBUG    pop widget TCubeGame MainWindow
+2018-04-30 23:31:19,849 PyQt5.uic.uiparser DEBUG    new topwidget None
+2018-04-30 23:31:19,849 PyQt5.uic.uiparser DEBUG    add action actionPreferences to menuPreferences
+2018-04-30 23:31:19,849 PyQt5.uic.uiparser DEBUG    add action actionRestart to menuPreferences
+2018-04-30 23:31:19,850 PyQt5.uic.uiparser DEBUG    add action menuPreferences to menubar
+2018-04-30 23:31:20,617 root     DEBUG    Loaded Pickle File
+2018-04-30 23:31:20,618 root     DEBUG    Loaded UI
+2018-04-30 23:31:20,624 PyQt5.uic.uiparser DEBUG    UI version is 4.0
+2018-04-30 23:31:20,625 PyQt5.uic.uiparser DEBUG    uiname is Dialog
+2018-04-30 23:31:20,625 PyQt5.uic.uiparser DEBUG    toplevel widget is preferencesDialog
+2018-04-30 23:31:20,625 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 23:31:20,626 PyQt5.uic.properties DEBUG    setting property windowTitle
+2018-04-30 23:31:20,627 PyQt5.uic.uiparser DEBUG    push preferencesDialog Dialog
+2018-04-30 23:31:20,627 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 23:31:20,628 PyQt5.uic.properties DEBUG    setting property orientation
+2018-04-30 23:31:20,628 PyQt5.uic.properties DEBUG    setting property standardButtons
+2018-04-30 23:31:20,629 PyQt5.uic.uiparser DEBUG    push QDialogButtonBox buttonBox
+2018-04-30 23:31:20,629 PyQt5.uic.uiparser DEBUG    pop widget QDialogButtonBox buttonBox
+2018-04-30 23:31:20,629 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.preferencesDialog object at 0x00000205174E2DC8>
+2018-04-30 23:31:20,629 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 23:31:20,629 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 23:31:20,629 PyQt5.uic.uiparser DEBUG    push QCheckBox moveFirst
+2018-04-30 23:31:20,630 PyQt5.uic.uiparser DEBUG    pop widget QCheckBox moveFirst
+2018-04-30 23:31:20,630 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.preferencesDialog object at 0x00000205174E2DC8>
+2018-04-30 23:31:20,630 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 23:31:20,630 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 23:31:20,630 PyQt5.uic.uiparser DEBUG    push QCheckBox playerMarkBox
+2018-04-30 23:31:20,630 PyQt5.uic.uiparser DEBUG    pop widget QCheckBox playerMarkBox
+2018-04-30 23:31:20,630 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.preferencesDialog object at 0x00000205174E2DC8>
+2018-04-30 23:31:20,630 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 23:31:20,630 PyQt5.uic.uiparser DEBUG    push QWidget widget
+2018-04-30 23:31:20,630 PyQt5.uic.properties DEBUG    setting property pyuicMargins
+2018-04-30 23:31:20,630 PyQt5.uic.uiparser DEBUG    push QVBoxLayout verticalLayout
+2018-04-30 23:31:20,631 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 23:31:20,631 PyQt5.uic.uiparser DEBUG    push QRadioButton easyButton
+2018-04-30 23:31:20,631 PyQt5.uic.uiparser DEBUG    pop widget QRadioButton easyButton
+2018-04-30 23:31:20,631 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x00000205174A2048>
+2018-04-30 23:31:20,631 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 23:31:20,631 PyQt5.uic.uiparser DEBUG    push QRadioButton hardButton
+2018-04-30 23:31:20,631 PyQt5.uic.uiparser DEBUG    pop widget QRadioButton hardButton
+2018-04-30 23:31:20,631 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x00000205174A2048>
+2018-04-30 23:31:20,631 PyQt5.uic.uiparser DEBUG    pop layout QVBoxLayout verticalLayout
+2018-04-30 23:31:20,631 PyQt5.uic.uiparser DEBUG    pop widget QWidget widget
+2018-04-30 23:31:20,631 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.preferencesDialog object at 0x00000205174E2DC8>
+2018-04-30 23:31:20,631 PyQt5.uic.uiparser DEBUG    pop widget preferencesDialog Dialog
+2018-04-30 23:31:20,631 PyQt5.uic.uiparser DEBUG    new topwidget None
+2018-04-30 23:31:26,456 root     INFO     Player Has Selected A Button.
+2018-04-30 23:31:26,457 root     INFO     CPU has chosen Random Move
+2018-04-30 23:31:37,333 root     INFO     Restarted Game
+2018-04-30 23:31:38,531 root     INFO     Player Has Selected A Button.
+2018-04-30 23:31:38,531 root     INFO     CPU has chosen Random Move
+2018-04-30 23:31:39,241 root     INFO     Player Has Selected A Button.
+2018-04-30 23:31:39,242 root     INFO     CPU has chosen Random Move
+2018-04-30 23:31:40,398 root     INFO     Player Has Selected A Button.
+2018-04-30 23:31:40,399 root     INFO     CPU has chosen a Win Or Block Move
+2018-04-30 23:31:41,079 root     INFO     Player Has Selected A Button.
+2018-04-30 23:31:41,079 root     INFO     X Wins
+2018-04-30 23:31:44,078 root     INFO     Restarted Game
+2018-04-30 23:31:49,284 root     INFO     Player Has Selected A Button.
+2018-04-30 23:31:49,284 root     INFO     CPU has chosen Random Move
+2018-04-30 23:31:49,644 root     INFO     Player Has Selected A Button.
+2018-04-30 23:31:49,644 root     INFO     CPU has chosen a Win Or Block Move
+2018-04-30 23:31:51,358 root     DEBUG    Saved Game
+2018-04-30 23:31:53,338 PyQt5.uic.uiparser DEBUG    UI version is 4.0
+2018-04-30 23:31:53,338 PyQt5.uic.uiparser DEBUG    uiname is MainWindow
+2018-04-30 23:31:53,339 PyQt5.uic.uiparser DEBUG    toplevel widget is TCubeGame
+2018-04-30 23:31:53,339 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 23:31:53,339 PyQt5.uic.properties DEBUG    setting property windowTitle
+2018-04-30 23:31:53,339 PyQt5.uic.uiparser DEBUG    push TCubeGame MainWindow
+2018-04-30 23:31:53,340 PyQt5.uic.uiparser DEBUG    push QWidget centralwidget
+2018-04-30 23:31:53,340 PyQt5.uic.properties DEBUG    setting property pyuicMargins
+2018-04-30 23:31:53,340 PyQt5.uic.uiparser DEBUG    push QGridLayout gridLayout_2
+2018-04-30 23:31:53,340 PyQt5.uic.uiparser DEBUG    push QVBoxLayout verticalLayout
+2018-04-30 23:31:53,340 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout_6
+2018-04-30 23:31:53,341 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout_4
+2018-04-30 23:31:53,341 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 23:31:53,341 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 23:31:53,342 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 23:31:53,343 PyQt5.uic.uiparser DEBUG    push QLabel firstPlayerLabel
+2018-04-30 23:31:53,343 PyQt5.uic.uiparser DEBUG    pop widget QLabel firstPlayerLabel
+2018-04-30 23:31:53,343 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000021B147E0AF8>
+2018-04-30 23:31:53,343 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 23:31:53,344 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 23:31:53,344 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 23:31:53,344 PyQt5.uic.uiparser DEBUG    push QLabel firstScoreLabel
+2018-04-30 23:31:53,345 PyQt5.uic.uiparser DEBUG    pop widget QLabel firstScoreLabel
+2018-04-30 23:31:53,345 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000021B147E0AF8>
+2018-04-30 23:31:53,345 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout_4
+2018-04-30 23:31:53,345 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout_5
+2018-04-30 23:31:53,346 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 23:31:53,346 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 23:31:53,347 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 23:31:53,347 PyQt5.uic.uiparser DEBUG    push QLabel drawLabel
+2018-04-30 23:31:53,347 PyQt5.uic.uiparser DEBUG    pop widget QLabel drawLabel
+2018-04-30 23:31:53,347 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000021B147E0AF8>
+2018-04-30 23:31:53,348 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 23:31:53,348 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 23:31:53,348 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 23:31:53,349 PyQt5.uic.uiparser DEBUG    push QLabel drawScoreLabel
+2018-04-30 23:31:53,349 PyQt5.uic.uiparser DEBUG    pop widget QLabel drawScoreLabel
+2018-04-30 23:31:53,349 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000021B147E0AF8>
+2018-04-30 23:31:53,349 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout_5
+2018-04-30 23:31:53,350 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout_3
+2018-04-30 23:31:53,350 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 23:31:53,350 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 23:31:53,351 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 23:31:53,351 PyQt5.uic.uiparser DEBUG    push QLabel secondPlayerLabel
+2018-04-30 23:31:53,351 PyQt5.uic.uiparser DEBUG    pop widget QLabel secondPlayerLabel
+2018-04-30 23:31:53,351 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000021B147E0AF8>
+2018-04-30 23:31:53,352 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 23:31:53,352 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 23:31:53,352 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 23:31:53,352 PyQt5.uic.uiparser DEBUG    push QLabel secondScoreLabel
+2018-04-30 23:31:53,353 PyQt5.uic.uiparser DEBUG    pop widget QLabel secondScoreLabel
+2018-04-30 23:31:53,353 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000021B147E0AF8>
+2018-04-30 23:31:53,353 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout_3
+2018-04-30 23:31:53,353 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout_6
+2018-04-30 23:31:53,354 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout_7
+2018-04-30 23:31:53,354 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 23:31:53,354 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 23:31:53,355 PyQt5.uic.properties DEBUG    setting property alignment
+2018-04-30 23:31:53,355 PyQt5.uic.uiparser DEBUG    push QLabel resultsLabel
+2018-04-30 23:31:53,355 PyQt5.uic.uiparser DEBUG    pop widget QLabel resultsLabel
+2018-04-30 23:31:53,355 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000021B147E0AF8>
+2018-04-30 23:31:53,355 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout_7
+2018-04-30 23:31:53,356 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout
+2018-04-30 23:31:53,356 PyQt5.uic.uiparser DEBUG    push QGridLayout gridLayout
+2018-04-30 23:31:53,357 PyQt5.uic.properties DEBUG    setting property sizePolicy
+2018-04-30 23:31:53,357 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 23:31:53,357 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 23:31:53,357 PyQt5.uic.properties DEBUG    setting property baseSize
+2018-04-30 23:31:53,357 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 23:31:53,358 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 23:31:53,358 PyQt5.uic.properties DEBUG    setting property iconSize
+2018-04-30 23:31:53,358 PyQt5.uic.uiparser DEBUG    push QPushButton one
+2018-04-30 23:31:53,358 PyQt5.uic.uiparser DEBUG    pop widget QPushButton one
+2018-04-30 23:31:53,358 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000021B147E0AF8>
+2018-04-30 23:31:53,358 PyQt5.uic.properties DEBUG    setting property sizePolicy
+2018-04-30 23:31:53,359 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 23:31:53,359 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 23:31:53,359 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 23:31:53,359 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 23:31:53,359 PyQt5.uic.uiparser DEBUG    push QPushButton two
+2018-04-30 23:31:53,359 PyQt5.uic.uiparser DEBUG    pop widget QPushButton two
+2018-04-30 23:31:53,359 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000021B147E0AF8>
+2018-04-30 23:31:53,360 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 23:31:53,360 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 23:31:53,360 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 23:31:53,361 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 23:31:53,361 PyQt5.uic.uiparser DEBUG    push QPushButton three
+2018-04-30 23:31:53,361 PyQt5.uic.uiparser DEBUG    pop widget QPushButton three
+2018-04-30 23:31:53,362 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000021B147E0AF8>
+2018-04-30 23:31:53,362 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 23:31:53,362 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 23:31:53,362 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 23:31:53,362 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 23:31:53,363 PyQt5.uic.uiparser DEBUG    push QPushButton four
+2018-04-30 23:31:53,363 PyQt5.uic.uiparser DEBUG    pop widget QPushButton four
+2018-04-30 23:31:53,363 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000021B147E0AF8>
+2018-04-30 23:31:53,363 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 23:31:53,363 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 23:31:53,363 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 23:31:53,363 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 23:31:53,364 PyQt5.uic.uiparser DEBUG    push QPushButton five
+2018-04-30 23:31:53,364 PyQt5.uic.uiparser DEBUG    pop widget QPushButton five
+2018-04-30 23:31:53,364 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000021B147E0AF8>
+2018-04-30 23:31:53,364 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 23:31:53,365 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 23:31:53,365 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 23:31:53,365 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 23:31:53,365 PyQt5.uic.uiparser DEBUG    push QPushButton six
+2018-04-30 23:31:53,365 PyQt5.uic.uiparser DEBUG    pop widget QPushButton six
+2018-04-30 23:31:53,365 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000021B147E0AF8>
+2018-04-30 23:31:53,366 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 23:31:53,366 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 23:31:53,366 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 23:31:53,366 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 23:31:53,366 PyQt5.uic.uiparser DEBUG    push QPushButton seven
+2018-04-30 23:31:53,366 PyQt5.uic.uiparser DEBUG    pop widget QPushButton seven
+2018-04-30 23:31:53,367 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000021B147E0AF8>
+2018-04-30 23:31:53,367 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 23:31:53,367 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 23:31:53,367 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 23:31:53,368 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 23:31:53,368 PyQt5.uic.uiparser DEBUG    push QPushButton eight
+2018-04-30 23:31:53,368 PyQt5.uic.uiparser DEBUG    pop widget QPushButton eight
+2018-04-30 23:31:53,368 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000021B147E0AF8>
+2018-04-30 23:31:53,368 PyQt5.uic.properties DEBUG    setting property minimumSize
+2018-04-30 23:31:53,369 PyQt5.uic.properties DEBUG    setting property maximumSize
+2018-04-30 23:31:53,369 PyQt5.uic.properties DEBUG    setting property font
+2018-04-30 23:31:53,369 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 23:31:53,369 PyQt5.uic.uiparser DEBUG    push QPushButton nine
+2018-04-30 23:31:53,369 PyQt5.uic.uiparser DEBUG    pop widget QPushButton nine
+2018-04-30 23:31:53,369 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000021B147E0AF8>
+2018-04-30 23:31:53,369 PyQt5.uic.uiparser DEBUG    pop layout QGridLayout gridLayout
+2018-04-30 23:31:53,370 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout
+2018-04-30 23:31:53,370 PyQt5.uic.uiparser DEBUG    push QHBoxLayout horizontalLayout_2
+2018-04-30 23:31:53,371 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 23:31:53,371 PyQt5.uic.uiparser DEBUG    push QPushButton restartButton
+2018-04-30 23:31:53,372 PyQt5.uic.uiparser DEBUG    pop widget QPushButton restartButton
+2018-04-30 23:31:53,383 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000021B147E0AF8>
+2018-04-30 23:31:53,383 PyQt5.uic.uiparser DEBUG    pop layout QHBoxLayout horizontalLayout_2
+2018-04-30 23:31:53,383 PyQt5.uic.uiparser DEBUG    pop layout QVBoxLayout verticalLayout
+2018-04-30 23:31:53,384 PyQt5.uic.uiparser DEBUG    pop layout QGridLayout gridLayout_2
+2018-04-30 23:31:53,384 PyQt5.uic.uiparser DEBUG    pop widget QWidget centralwidget
+2018-04-30 23:31:53,384 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.TCubeGame object at 0x0000021B146E5168>
+2018-04-30 23:31:53,387 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 23:31:53,387 PyQt5.uic.uiparser DEBUG    push QMenuBar menubar
+2018-04-30 23:31:53,388 PyQt5.uic.properties DEBUG    setting property title
+2018-04-30 23:31:53,388 PyQt5.uic.uiparser DEBUG    push QMenu menuPreferences
+2018-04-30 23:31:53,388 PyQt5.uic.uiparser DEBUG    pop widget QMenu menuPreferences
+2018-04-30 23:31:53,388 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QMenuBar object at 0x0000021B149A2948>
+2018-04-30 23:31:53,389 PyQt5.uic.uiparser DEBUG    pop widget QMenuBar menubar
+2018-04-30 23:31:53,389 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.TCubeGame object at 0x0000021B146E5168>
+2018-04-30 23:31:53,404 PyQt5.uic.uiparser DEBUG    push QStatusBar statusbar
+2018-04-30 23:31:53,404 PyQt5.uic.uiparser DEBUG    pop widget QStatusBar statusbar
+2018-04-30 23:31:53,404 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.TCubeGame object at 0x0000021B146E5168>
+2018-04-30 23:31:53,405 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 23:31:53,405 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 23:31:53,405 PyQt5.uic.uiparser DEBUG    pop widget TCubeGame MainWindow
+2018-04-30 23:31:53,405 PyQt5.uic.uiparser DEBUG    new topwidget None
+2018-04-30 23:31:53,406 PyQt5.uic.uiparser DEBUG    add action actionPreferences to menuPreferences
+2018-04-30 23:31:53,406 PyQt5.uic.uiparser DEBUG    add action actionRestart to menuPreferences
+2018-04-30 23:31:53,406 PyQt5.uic.uiparser DEBUG    add action menuPreferences to menubar
+2018-04-30 23:31:53,968 root     DEBUG    Loaded Pickle File
+2018-04-30 23:31:53,969 root     DEBUG    Loaded UI
+2018-04-30 23:31:53,974 PyQt5.uic.uiparser DEBUG    UI version is 4.0
+2018-04-30 23:31:53,974 PyQt5.uic.uiparser DEBUG    uiname is Dialog
+2018-04-30 23:31:53,974 PyQt5.uic.uiparser DEBUG    toplevel widget is preferencesDialog
+2018-04-30 23:31:53,974 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 23:31:53,975 PyQt5.uic.properties DEBUG    setting property windowTitle
+2018-04-30 23:31:53,975 PyQt5.uic.uiparser DEBUG    push preferencesDialog Dialog
+2018-04-30 23:31:53,975 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 23:31:53,976 PyQt5.uic.properties DEBUG    setting property orientation
+2018-04-30 23:31:53,976 PyQt5.uic.properties DEBUG    setting property standardButtons
+2018-04-30 23:31:53,976 PyQt5.uic.uiparser DEBUG    push QDialogButtonBox buttonBox
+2018-04-30 23:31:53,976 PyQt5.uic.uiparser DEBUG    pop widget QDialogButtonBox buttonBox
+2018-04-30 23:31:53,977 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.preferencesDialog object at 0x0000021B149A2DC8>
+2018-04-30 23:31:53,977 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 23:31:53,978 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 23:31:53,978 PyQt5.uic.uiparser DEBUG    push QCheckBox moveFirst
+2018-04-30 23:31:53,979 PyQt5.uic.uiparser DEBUG    pop widget QCheckBox moveFirst
+2018-04-30 23:31:53,980 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.preferencesDialog object at 0x0000021B149A2DC8>
+2018-04-30 23:31:53,980 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 23:31:53,981 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 23:31:53,981 PyQt5.uic.uiparser DEBUG    push QCheckBox playerMarkBox
+2018-04-30 23:31:53,981 PyQt5.uic.uiparser DEBUG    pop widget QCheckBox playerMarkBox
+2018-04-30 23:31:53,981 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.preferencesDialog object at 0x0000021B149A2DC8>
+2018-04-30 23:31:53,981 PyQt5.uic.properties DEBUG    setting property geometry
+2018-04-30 23:31:53,982 PyQt5.uic.uiparser DEBUG    push QWidget widget
+2018-04-30 23:31:53,982 PyQt5.uic.properties DEBUG    setting property pyuicMargins
+2018-04-30 23:31:53,982 PyQt5.uic.uiparser DEBUG    push QVBoxLayout verticalLayout
+2018-04-30 23:31:53,982 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 23:31:53,982 PyQt5.uic.uiparser DEBUG    push QRadioButton easyButton
+2018-04-30 23:31:53,983 PyQt5.uic.uiparser DEBUG    pop widget QRadioButton easyButton
+2018-04-30 23:31:53,983 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000021B149AF048>
+2018-04-30 23:31:53,983 PyQt5.uic.properties DEBUG    setting property text
+2018-04-30 23:31:53,983 PyQt5.uic.uiparser DEBUG    push QRadioButton hardButton
+2018-04-30 23:31:53,983 PyQt5.uic.uiparser DEBUG    pop widget QRadioButton hardButton
+2018-04-30 23:31:53,983 PyQt5.uic.uiparser DEBUG    new topwidget <PyQt5.QtWidgets.QWidget object at 0x0000021B149AF048>
+2018-04-30 23:31:53,983 PyQt5.uic.uiparser DEBUG    pop layout QVBoxLayout verticalLayout
+2018-04-30 23:31:53,984 PyQt5.uic.uiparser DEBUG    pop widget QWidget widget
+2018-04-30 23:31:53,984 PyQt5.uic.uiparser DEBUG    new topwidget <__main__.preferencesDialog object at 0x0000021B149A2DC8>
+2018-04-30 23:31:53,984 PyQt5.uic.uiparser DEBUG    pop widget preferencesDialog Dialog
+2018-04-30 23:31:53,984 PyQt5.uic.uiparser DEBUG    new topwidget None
+2018-04-30 23:31:55,223 root     INFO     Player Has Selected A Button.
+2018-04-30 23:31:55,223 root     INFO     CPU has chosen a Win Or Block Move
+2018-04-30 23:31:56,081 root     INFO     Player Has Selected A Button.
+2018-04-30 23:31:56,081 root     INFO     CPU has chosen Random Move
+2018-04-30 23:31:56,982 root     INFO     Player Has Selected A Button.
+2018-04-30 23:31:59,982 root     INFO     Restarted Game
+2018-04-30 23:32:01,116 root     INFO     Player Has Selected A Button.
+2018-04-30 23:32:01,117 root     INFO     CPU has chosen Random Move
+2018-04-30 23:32:02,158 root     INFO     Player Has Selected A Button.
+2018-04-30 23:32:02,159 root     INFO     CPU has chosen a Win Or Block Move
+2018-04-30 23:32:02,930 root     INFO     Player Has Selected A Button.
+2018-04-30 23:32:02,931 root     INFO     CPU has chosen a Win Or Block Move
+2018-04-30 23:32:03,564 root     INFO     Player Has Selected A Button.
+2018-04-30 23:32:03,564 root     INFO     CPU has chosen Random Move
+2018-04-30 23:32:04,190 root     INFO     Player Has Selected A Button.
+2018-04-30 23:32:07,182 root     INFO     Restarted Game
+2018-04-30 23:32:08,014 root     INFO     Player Has Selected A Button.
+2018-04-30 23:32:08,015 root     INFO     CPU has chosen Random Move
+2018-04-30 23:32:09,004 root     INFO     Player Has Selected A Button.
+2018-04-30 23:32:09,004 root     INFO     CPU has chosen a Win Or Block Move
+2018-04-30 23:32:10,060 root     INFO     Player Has Selected A Button.
+2018-04-30 23:32:10,060 root     INFO     CPU has chosen a Win Or Block Move
+2018-04-30 23:32:10,894 root     INFO     Player Has Selected A Button.
+2018-04-30 23:32:10,894 root     INFO     CPU has chosen Random Move
+2018-04-30 23:32:11,559 root     INFO     Player Has Selected A Button.
+2018-04-30 23:32:14,557 root     INFO     Restarted Game
+2018-04-30 23:32:15,228 root     INFO     Player Has Selected A Button.
+2018-04-30 23:32:15,228 root     INFO     CPU has chosen Random Move
+2018-04-30 23:32:16,000 root     INFO     Player Has Selected A Button.
+2018-04-30 23:32:16,001 root     INFO     CPU has chosen a Win Or Block Move
+2018-04-30 23:32:16,718 root     INFO     Player Has Selected A Button.
+2018-04-30 23:32:16,719 root     INFO     CPU has chosen a Win Or Block Move
+2018-04-30 23:32:17,305 root     INFO     Player Has Selected A Button.
+2018-04-30 23:32:17,305 root     INFO     CPU has chosen Random Move
+2018-04-30 23:32:17,776 root     INFO     Player Has Selected A Button.
+2018-04-30 23:32:20,775 root     INFO     Restarted Game
+2018-04-30 23:32:24,670 root     INFO     Restarted Game
+2018-04-30 23:32:25,354 root     INFO     Player Has Selected A Button.
+2018-04-30 23:32:25,355 root     INFO     CPU has chosen Random Move
+2018-04-30 23:32:26,202 root     INFO     Player Has Selected A Button.
+2018-04-30 23:32:26,203 root     INFO     CPU has chosen Random Move
+2018-04-30 23:32:27,214 root     INFO     Player Has Selected A Button.
+2018-04-30 23:32:27,214 root     INFO     CPU has chosen Random Move
+2018-04-30 23:32:27,878 root     INFO     Player Has Selected A Button.
+2018-04-30 23:32:27,879 root     INFO     X Wins
+2018-04-30 23:32:30,873 root     INFO     Restarted Game
+2018-04-30 23:32:34,079 root     INFO     Restarted Game
+2018-04-30 23:32:34,978 root     INFO     Player Has Selected A Button.
+2018-04-30 23:32:34,979 root     INFO     CPU has chosen Random Move
+2018-04-30 23:32:35,656 root     INFO     Player Has Selected A Button.
+2018-04-30 23:32:35,656 root     INFO     CPU has chosen a Win Or Block Move
+2018-04-30 23:32:36,445 root     INFO     Player Has Selected A Button.
+2018-04-30 23:32:36,445 root     INFO     CPU has chosen a Win Or Block Move
+2018-04-30 23:32:37,062 root     INFO     Player Has Selected A Button.
+2018-04-30 23:32:37,062 root     INFO     X Wins
+2018-04-30 23:32:40,060 root     INFO     Restarted Game
+2018-04-30 23:32:40,524 root     INFO     Player Has Selected A Button.
+2018-04-30 23:32:40,524 root     INFO     CPU has chosen Random Move
+2018-04-30 23:32:42,276 root     INFO     Player Has Selected A Button.
+2018-04-30 23:32:42,277 root     INFO     CPU has chosen a Win Or Block Move
+2018-04-30 23:32:42,878 root     INFO     Player Has Selected A Button.
+2018-04-30 23:32:42,878 root     INFO     CPU has chosen a Win Or Block Move
+2018-04-30 23:32:43,774 root     INFO     Player Has Selected A Button.
+2018-04-30 23:32:43,774 root     INFO     CPU has chosen Random Move
+2018-04-30 23:32:44,270 root     INFO     Player Has Selected A Button.
+2018-04-30 23:32:47,262 root     INFO     Restarted Game
+2018-04-30 23:49:20,509 root     DEBUG    Saved Game
